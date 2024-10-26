@@ -1,0 +1,1501 @@
+Student ID,Age,Gender,Learning Style,Math Score,Science Score,Literature Score,Attention Span,Parental Involvement,Study Hours,Technology Use,Intervention,Outcome
+S0001,10,Female,Visual,70,73,98,Short,Medium,2,Weekly,Online Learning,Improved
+S0002,16,Female,Auditory,93,73,80,Short,Low,11,Daily,Tutoring,Improved
+S0003,12,Female,Visual,93,96,89,Medium,High,15,Daily,Peer Collaboration,Stable
+S0004,11,Female,Auditory,69,93,89,Medium,High,10,Daily,Online Learning,Stable
+S0005,15,Male,Auditory,79,93,99,Long,Medium,9,Rarely,Tutoring,Improved
+S0006,15,Male,Kinesthetic,71,59,53,Medium,Low,2,Daily,Peer Collaboration,Stable
+S0007,11,Female,Reading/Writing,77,99,61,Long,Medium,12,Rarely,Peer Collaboration,Improved
+S0008,14,Other,Kinesthetic,100,86,88,Long,Medium,6,Daily,Online Learning,Stable
+S0009,15,Female,Reading/Writing,100,94,56,Medium,Medium,4,Daily,Tutoring,Stable
+S0010,15,Female,Auditory,61,87,50,Long,Medium,7,Weekly,Tutoring,Improved
+S0011,18,Other,Reading/Writing,54,79,81,Short,High,2,Weekly,Online Learning,Declined
+S0012,13,Other,Visual,71,65,54,Medium,Medium,7,Daily,Online Learning,Declined
+S0013,11,Female,Kinesthetic,77,60,96,Medium,High,14,Rarely,Peer Collaboration,Stable
+S0014,11,Female,Kinesthetic,99,53,85,Medium,Low,6,Daily,Online Learning,Stable
+S0015,12,Female,Auditory,68,79,90,Medium,Medium,8,Rarely,Peer Collaboration,Declined
+S0016,13,Female,Visual,88,67,94,Medium,Medium,15,Daily,Online Learning,Declined
+S0017,13,Female,Auditory,86,94,66,Long,High,9,Rarely,Online Learning,Declined
+S0018,17,Other,Kinesthetic,88,62,93,Long,Low,4,Rarely,Online Learning,Stable
+S0019,14,Male,Visual,64,97,56,Long,Low,8,Weekly,Online Learning,Declined
+S0020,13,Female,Visual,77,78,72,Long,High,14,Daily,Online Learning,Stable
+S0021,15,Male,Visual,90,52,54,Medium,Medium,8,Rarely,Online Learning,Improved
+S0022,12,Female,Visual,63,97,58,Short,High,1,Daily,Tutoring,Declined
+S0023,15,Female,Kinesthetic,94,77,71,Medium,Low,4,Daily,Online Learning,Stable
+S0024,12,Female,Visual,96,59,71,Short,High,11,Daily,Online Learning,Stable
+S0025,16,Female,Kinesthetic,69,60,73,Short,Low,1,Weekly,Online Learning,Stable
+S0026,17,Other,Kinesthetic,98,62,67,Short,High,2,Rarely,Online Learning,Declined
+S0027,10,Male,Reading/Writing,89,60,97,Long,Low,14,Weekly,Peer Collaboration,Declined
+S0028,18,Female,Auditory,54,79,86,Medium,High,15,Rarely,Peer Collaboration,Improved
+S0029,15,Male,Visual,68,77,87,Medium,Medium,14,Daily,Online Learning,Stable
+S0030,13,Other,Kinesthetic,84,70,81,Long,High,3,Rarely,Online Learning,Declined
+S0031,15,Other,Reading/Writing,76,50,76,Medium,High,10,Daily,Online Learning,Declined
+S0032,11,Other,Kinesthetic,61,67,81,Short,Medium,6,Daily,Online Learning,Improved
+S0033,15,Male,Auditory,79,50,94,Long,High,5,Daily,Tutoring,Improved
+S0034,13,Male,Kinesthetic,74,92,90,Long,Low,3,Weekly,Tutoring,Declined
+S0035,16,Male,Auditory,63,80,62,Long,High,7,Rarely,Online Learning,Declined
+S0036,13,Female,Reading/Writing,79,69,91,Medium,High,14,Daily,Peer Collaboration,Stable
+S0037,10,Other,Reading/Writing,55,51,84,Short,High,4,Daily,Peer Collaboration,Improved
+S0038,15,Male,Visual,79,73,83,Short,High,14,Daily,Online Learning,Improved
+S0039,17,Other,Visual,87,50,90,Short,High,6,Weekly,Online Learning,Stable
+S0040,16,Female,Kinesthetic,57,67,51,Medium,Medium,9,Daily,Tutoring,Improved
+S0041,14,Male,Kinesthetic,88,77,82,Medium,Low,7,Weekly,Online Learning,Stable
+S0042,18,Female,Auditory,50,53,88,Short,Low,4,Weekly,Tutoring,Improved
+S0043,17,Female,Kinesthetic,65,72,99,Short,High,13,Weekly,Tutoring,Improved
+S0044,11,Male,Kinesthetic,77,53,73,Long,High,5,Rarely,Online Learning,Stable
+S0045,13,Other,Auditory,71,88,52,Medium,Low,5,Weekly,Tutoring,Stable
+S0046,11,Female,Kinesthetic,68,100,88,Long,Medium,14,Rarely,Online Learning,Declined
+S0047,12,Female,Kinesthetic,70,82,54,Medium,High,12,Rarely,Peer Collaboration,Improved
+S0048,15,Other,Visual,91,76,90,Short,Medium,4,Rarely,Tutoring,Declined
+S0049,16,Male,Visual,69,91,82,Medium,High,1,Rarely,Online Learning,Stable
+S0050,10,Male,Auditory,67,60,97,Medium,Low,9,Daily,Peer Collaboration,Declined
+S0051,11,Other,Kinesthetic,97,89,87,Short,High,3,Rarely,Online Learning,Improved
+S0052,15,Female,Reading/Writing,60,65,97,Long,Medium,3,Weekly,Online Learning,Declined
+S0053,11,Other,Auditory,94,53,88,Medium,Medium,13,Rarely,Online Learning,Stable
+S0054,10,Other,Auditory,77,86,51,Short,Medium,7,Weekly,Peer Collaboration,Stable
+S0055,17,Other,Auditory,78,99,89,Medium,Medium,14,Rarely,Online Learning,Stable
+S0056,17,Female,Kinesthetic,96,70,92,Long,Medium,10,Daily,Online Learning,Declined
+S0057,16,Other,Auditory,68,100,87,Short,High,3,Rarely,Tutoring,Stable
+S0058,18,Female,Kinesthetic,99,79,83,Short,Medium,12,Rarely,Peer Collaboration,Stable
+S0059,14,Male,Auditory,87,78,73,Long,Medium,3,Daily,Online Learning,Stable
+S0060,13,Male,Auditory,83,72,67,Short,High,15,Daily,Peer Collaboration,Improved
+S0061,12,Female,Kinesthetic,55,61,53,Short,High,6,Weekly,Peer Collaboration,Improved
+S0062,12,Other,Visual,98,59,77,Short,High,4,Weekly,Online Learning,Declined
+S0063,13,Female,Reading/Writing,81,73,91,Short,High,15,Rarely,Online Learning,Improved
+S0064,17,Male,Kinesthetic,50,63,90,Long,Low,11,Weekly,Tutoring,Improved
+S0065,12,Female,Kinesthetic,80,98,80,Short,Low,9,Weekly,Tutoring,Stable
+S0066,10,Female,Visual,93,65,62,Short,Medium,10,Daily,Online Learning,Stable
+S0067,18,Male,Visual,71,57,66,Short,High,12,Rarely,Tutoring,Improved
+S0068,14,Other,Kinesthetic,92,55,85,Short,High,12,Weekly,Online Learning,Improved
+S0069,12,Other,Visual,71,50,92,Medium,High,6,Weekly,Tutoring,Declined
+S0070,15,Male,Visual,88,99,62,Long,Low,1,Rarely,Online Learning,Improved
+S0071,14,Other,Kinesthetic,72,58,97,Medium,Medium,10,Daily,Online Learning,Stable
+S0072,15,Other,Reading/Writing,65,54,96,Medium,Medium,14,Daily,Peer Collaboration,Stable
+S0073,18,Other,Visual,100,96,85,Long,High,4,Weekly,Online Learning,Improved
+S0074,17,Male,Reading/Writing,57,97,71,Short,Low,15,Rarely,Peer Collaboration,Stable
+S0075,10,Female,Visual,90,98,88,Medium,Low,4,Daily,Online Learning,Stable
+S0076,17,Male,Reading/Writing,100,84,99,Long,High,11,Rarely,Peer Collaboration,Stable
+S0077,15,Female,Kinesthetic,61,75,68,Long,Medium,13,Daily,Tutoring,Improved
+S0078,16,Female,Visual,64,81,71,Long,High,13,Rarely,Peer Collaboration,Stable
+S0079,13,Male,Reading/Writing,50,91,99,Medium,High,4,Rarely,Tutoring,Declined
+S0080,13,Female,Kinesthetic,51,55,85,Medium,High,12,Rarely,Tutoring,Improved
+S0081,11,Female,Kinesthetic,73,89,55,Long,Low,9,Rarely,Tutoring,Declined
+S0082,12,Other,Visual,100,81,86,Medium,Medium,1,Weekly,Peer Collaboration,Declined
+S0083,13,Other,Auditory,67,76,56,Long,Medium,2,Daily,Online Learning,Improved
+S0084,11,Male,Auditory,94,89,88,Long,Low,2,Rarely,Peer Collaboration,Improved
+S0085,14,Other,Reading/Writing,97,73,99,Medium,High,5,Weekly,Peer Collaboration,Improved
+S0086,14,Female,Kinesthetic,59,78,75,Long,Medium,11,Rarely,Tutoring,Declined
+S0087,13,Other,Visual,60,84,88,Long,Low,6,Rarely,Online Learning,Stable
+S0088,11,Female,Kinesthetic,98,93,54,Short,High,7,Daily,Tutoring,Declined
+S0089,11,Other,Visual,74,69,63,Short,Low,1,Daily,Tutoring,Stable
+S0090,18,Female,Auditory,84,98,74,Short,Medium,7,Weekly,Online Learning,Declined
+S0091,11,Female,Reading/Writing,57,62,71,Short,High,10,Weekly,Tutoring,Declined
+S0092,15,Male,Reading/Writing,76,90,56,Medium,Low,3,Daily,Online Learning,Improved
+S0093,13,Male,Visual,84,83,86,Medium,Low,14,Daily,Online Learning,Declined
+S0094,18,Female,Kinesthetic,79,70,94,Long,Low,13,Rarely,Online Learning,Declined
+S0095,11,Female,Visual,61,62,99,Short,Medium,13,Weekly,Tutoring,Stable
+S0096,18,Other,Auditory,62,55,69,Short,Low,2,Daily,Peer Collaboration,Stable
+S0097,13,Male,Reading/Writing,70,52,96,Medium,Medium,9,Rarely,Online Learning,Declined
+S0098,15,Other,Auditory,52,58,100,Long,Medium,15,Daily,Tutoring,Declined
+S0099,13,Other,Auditory,74,97,76,Medium,High,4,Weekly,Tutoring,Declined
+S0100,16,Male,Visual,93,53,59,Long,Medium,7,Rarely,Peer Collaboration,Improved
+S0101,13,Other,Visual,97,100,89,Short,Low,1,Rarely,Peer Collaboration,Stable
+S0102,13,Male,Auditory,79,50,100,Short,Low,4,Daily,Online Learning,Stable
+S0103,12,Other,Kinesthetic,68,62,63,Short,Low,15,Weekly,Online Learning,Declined
+S0104,11,Other,Visual,75,53,67,Short,Low,13,Rarely,Online Learning,Stable
+S0105,10,Female,Reading/Writing,85,72,76,Long,High,3,Daily,Online Learning,Declined
+S0106,18,Female,Visual,52,69,68,Medium,Medium,4,Rarely,Tutoring,Improved
+S0107,16,Male,Kinesthetic,100,84,70,Long,High,14,Daily,Peer Collaboration,Stable
+S0108,12,Female,Auditory,95,90,76,Short,Medium,1,Weekly,Peer Collaboration,Stable
+S0109,17,Other,Visual,88,71,100,Long,Low,11,Rarely,Tutoring,Stable
+S0110,17,Male,Auditory,69,71,81,Medium,High,8,Rarely,Peer Collaboration,Stable
+S0111,18,Other,Reading/Writing,78,80,82,Short,High,5,Weekly,Peer Collaboration,Declined
+S0112,12,Female,Reading/Writing,93,67,50,Medium,Low,11,Weekly,Tutoring,Stable
+S0113,10,Other,Visual,63,52,63,Short,High,4,Weekly,Online Learning,Declined
+S0114,18,Other,Reading/Writing,53,66,89,Short,Low,8,Daily,Online Learning,Declined
+S0115,15,Male,Kinesthetic,66,79,76,Long,High,4,Daily,Tutoring,Stable
+S0116,16,Male,Visual,83,95,94,Medium,High,9,Daily,Peer Collaboration,Stable
+S0117,12,Other,Visual,67,56,83,Medium,Medium,9,Daily,Peer Collaboration,Improved
+S0118,16,Male,Auditory,97,91,94,Medium,Low,1,Rarely,Peer Collaboration,Declined
+S0119,16,Female,Visual,53,82,92,Medium,High,8,Daily,Peer Collaboration,Stable
+S0120,12,Male,Auditory,67,89,82,Short,High,4,Weekly,Peer Collaboration,Declined
+S0121,16,Male,Auditory,53,87,67,Short,High,1,Daily,Online Learning,Improved
+S0122,16,Other,Reading/Writing,98,66,72,Medium,Medium,12,Weekly,Tutoring,Declined
+S0123,14,Male,Visual,69,94,87,Long,Low,14,Weekly,Online Learning,Stable
+S0124,11,Male,Kinesthetic,69,83,64,Short,Medium,8,Rarely,Peer Collaboration,Improved
+S0125,18,Other,Auditory,77,61,67,Long,Low,5,Weekly,Online Learning,Declined
+S0126,12,Female,Auditory,60,67,97,Long,Low,9,Weekly,Tutoring,Improved
+S0127,16,Other,Auditory,95,65,54,Long,Medium,13,Daily,Online Learning,Improved
+S0128,14,Other,Reading/Writing,73,94,74,Short,Low,2,Daily,Peer Collaboration,Declined
+S0129,17,Male,Kinesthetic,57,72,77,Long,Low,14,Daily,Peer Collaboration,Declined
+S0130,14,Male,Auditory,93,79,85,Medium,Medium,9,Daily,Tutoring,Improved
+S0131,17,Male,Reading/Writing,88,66,72,Medium,Low,12,Daily,Online Learning,Stable
+S0132,10,Male,Visual,58,56,51,Medium,Medium,5,Daily,Online Learning,Declined
+S0133,15,Male,Auditory,87,91,88,Medium,High,12,Weekly,Peer Collaboration,Declined
+S0134,15,Other,Auditory,86,93,60,Long,Medium,12,Daily,Online Learning,Stable
+S0135,14,Other,Reading/Writing,83,75,93,Short,Medium,13,Daily,Online Learning,Declined
+S0136,12,Male,Auditory,97,89,70,Medium,Low,8,Weekly,Online Learning,Stable
+S0137,13,Other,Auditory,79,87,81,Short,High,9,Daily,Online Learning,Declined
+S0138,16,Male,Reading/Writing,82,50,88,Short,High,5,Weekly,Peer Collaboration,Improved
+S0139,17,Male,Kinesthetic,84,53,75,Short,High,10,Rarely,Online Learning,Stable
+S0140,15,Male,Visual,60,53,67,Short,High,6,Rarely,Online Learning,Stable
+S0141,13,Female,Visual,65,89,50,Short,Medium,5,Daily,Online Learning,Improved
+S0142,18,Male,Visual,74,59,76,Medium,Medium,4,Rarely,Peer Collaboration,Declined
+S0143,16,Other,Auditory,87,81,71,Long,High,3,Weekly,Tutoring,Stable
+S0144,16,Other,Kinesthetic,83,73,78,Long,Low,15,Weekly,Tutoring,Improved
+S0145,10,Other,Reading/Writing,82,74,59,Long,Low,3,Rarely,Online Learning,Declined
+S0146,11,Male,Reading/Writing,91,70,82,Medium,High,7,Daily,Peer Collaboration,Improved
+S0147,11,Male,Kinesthetic,71,85,77,Medium,Low,8,Weekly,Peer Collaboration,Declined
+S0148,17,Other,Auditory,88,69,62,Medium,Low,1,Daily,Tutoring,Improved
+S0149,13,Male,Visual,99,86,72,Medium,Low,5,Rarely,Online Learning,Stable
+S0150,10,Other,Reading/Writing,85,71,55,Medium,Medium,5,Weekly,Online Learning,Stable
+S0151,10,Female,Kinesthetic,72,69,77,Short,Medium,1,Weekly,Tutoring,Improved
+S0152,12,Male,Auditory,79,68,91,Medium,High,13,Daily,Online Learning,Declined
+S0153,12,Male,Kinesthetic,84,86,66,Long,High,2,Weekly,Peer Collaboration,Declined
+S0154,12,Male,Visual,60,83,76,Medium,Medium,9,Weekly,Peer Collaboration,Declined
+S0155,10,Other,Reading/Writing,95,93,84,Short,Medium,15,Daily,Tutoring,Improved
+S0156,12,Other,Kinesthetic,96,84,76,Short,Low,8,Rarely,Online Learning,Declined
+S0157,18,Other,Visual,64,100,67,Short,Low,9,Weekly,Peer Collaboration,Improved
+S0158,10,Other,Visual,66,70,53,Long,High,13,Daily,Peer Collaboration,Declined
+S0159,16,Female,Kinesthetic,70,90,74,Long,High,5,Daily,Tutoring,Improved
+S0160,17,Other,Reading/Writing,80,58,64,Long,Low,3,Daily,Peer Collaboration,Stable
+S0161,13,Other,Reading/Writing,85,75,67,Short,High,7,Rarely,Tutoring,Stable
+S0162,18,Female,Auditory,65,65,52,Medium,Low,11,Weekly,Tutoring,Improved
+S0163,18,Male,Reading/Writing,96,60,85,Long,High,5,Rarely,Peer Collaboration,Declined
+S0164,10,Female,Auditory,65,57,78,Long,Medium,7,Weekly,Tutoring,Declined
+S0165,17,Other,Reading/Writing,74,94,100,Short,Medium,5,Rarely,Tutoring,Stable
+S0166,11,Female,Auditory,91,56,97,Long,High,7,Daily,Tutoring,Stable
+S0167,18,Male,Visual,54,62,62,Long,High,10,Weekly,Online Learning,Declined
+S0168,13,Male,Visual,91,79,76,Short,Medium,13,Rarely,Peer Collaboration,Improved
+S0169,13,Male,Kinesthetic,61,99,91,Medium,Low,15,Rarely,Online Learning,Stable
+S0170,10,Female,Visual,91,77,80,Short,High,11,Daily,Peer Collaboration,Declined
+S0171,18,Male,Visual,95,61,60,Short,High,6,Weekly,Peer Collaboration,Declined
+S0172,17,Other,Kinesthetic,90,93,87,Long,Medium,2,Weekly,Peer Collaboration,Stable
+S0173,10,Male,Kinesthetic,72,73,92,Medium,Low,14,Daily,Peer Collaboration,Declined
+S0174,14,Male,Reading/Writing,57,51,86,Short,Low,13,Weekly,Online Learning,Declined
+S0175,10,Other,Visual,59,92,68,Long,High,2,Daily,Online Learning,Improved
+S0176,15,Male,Reading/Writing,65,92,71,Long,Medium,9,Weekly,Peer Collaboration,Improved
+S0177,10,Other,Visual,53,50,94,Short,High,3,Daily,Peer Collaboration,Improved
+S0178,16,Female,Kinesthetic,84,80,74,Medium,Low,11,Rarely,Peer Collaboration,Improved
+S0179,16,Male,Visual,65,87,79,Long,Low,6,Daily,Online Learning,Declined
+S0180,14,Other,Kinesthetic,57,98,84,Long,Medium,2,Weekly,Tutoring,Stable
+S0181,13,Other,Auditory,88,76,97,Medium,Medium,7,Rarely,Peer Collaboration,Declined
+S0182,12,Female,Reading/Writing,73,64,50,Medium,Low,13,Weekly,Tutoring,Declined
+S0183,14,Male,Reading/Writing,57,62,60,Medium,Medium,14,Weekly,Online Learning,Improved
+S0184,13,Male,Kinesthetic,60,85,77,Long,Low,7,Weekly,Tutoring,Stable
+S0185,11,Male,Kinesthetic,97,93,74,Medium,Low,10,Weekly,Peer Collaboration,Improved
+S0186,10,Male,Visual,84,95,82,Medium,High,8,Rarely,Tutoring,Declined
+S0187,17,Male,Kinesthetic,85,86,62,Long,Medium,7,Rarely,Online Learning,Improved
+S0188,12,Male,Visual,91,88,72,Medium,Low,5,Daily,Tutoring,Stable
+S0189,11,Male,Kinesthetic,83,71,65,Medium,High,6,Rarely,Tutoring,Declined
+S0190,12,Female,Reading/Writing,77,98,59,Long,High,2,Daily,Online Learning,Declined
+S0191,15,Male,Auditory,91,89,61,Long,High,5,Daily,Tutoring,Stable
+S0192,10,Male,Kinesthetic,98,75,94,Short,Low,1,Weekly,Tutoring,Stable
+S0193,11,Male,Auditory,91,100,83,Medium,Medium,15,Rarely,Online Learning,Stable
+S0194,17,Male,Visual,99,73,78,Short,Medium,14,Rarely,Tutoring,Stable
+S0195,10,Other,Auditory,50,70,78,Short,Medium,1,Weekly,Online Learning,Stable
+S0196,12,Female,Visual,58,73,82,Short,Medium,10,Rarely,Peer Collaboration,Improved
+S0197,17,Female,Visual,77,50,67,Short,Medium,13,Rarely,Peer Collaboration,Stable
+S0198,12,Other,Auditory,54,63,94,Short,Medium,9,Rarely,Tutoring,Declined
+S0199,13,Female,Visual,58,57,70,Long,High,13,Rarely,Tutoring,Declined
+S0200,11,Male,Reading/Writing,62,73,63,Long,High,11,Daily,Online Learning,Improved
+S0201,15,Male,Visual,87,92,94,Short,High,13,Daily,Online Learning,Stable
+S0202,10,Other,Auditory,58,50,76,Medium,Medium,7,Rarely,Online Learning,Declined
+S0203,18,Other,Kinesthetic,80,96,95,Medium,Medium,12,Daily,Peer Collaboration,Improved
+S0204,15,Other,Auditory,90,83,86,Long,High,15,Daily,Tutoring,Stable
+S0205,13,Female,Auditory,86,70,74,Medium,Low,5,Weekly,Online Learning,Improved
+S0206,17,Other,Kinesthetic,81,84,85,Medium,Low,2,Daily,Online Learning,Declined
+S0207,15,Female,Reading/Writing,62,72,96,Medium,Low,10,Weekly,Peer Collaboration,Stable
+S0208,11,Other,Reading/Writing,75,95,64,Short,High,14,Weekly,Online Learning,Stable
+S0209,12,Female,Kinesthetic,58,86,92,Long,Low,13,Rarely,Peer Collaboration,Declined
+S0210,10,Female,Visual,52,85,68,Medium,Medium,5,Weekly,Tutoring,Declined
+S0211,18,Female,Visual,66,96,82,Medium,High,14,Daily,Tutoring,Stable
+S0212,11,Female,Kinesthetic,62,98,72,Short,High,4,Daily,Online Learning,Improved
+S0213,10,Other,Auditory,94,85,62,Short,Low,11,Daily,Peer Collaboration,Stable
+S0214,16,Male,Kinesthetic,67,81,66,Medium,High,7,Daily,Online Learning,Declined
+S0215,10,Other,Kinesthetic,67,66,99,Medium,High,6,Rarely,Tutoring,Stable
+S0216,11,Female,Kinesthetic,79,55,68,Medium,High,2,Rarely,Tutoring,Declined
+S0217,10,Other,Visual,53,97,58,Short,High,12,Weekly,Tutoring,Declined
+S0218,10,Male,Kinesthetic,82,73,88,Short,Low,13,Rarely,Tutoring,Stable
+S0219,16,Female,Kinesthetic,57,78,76,Long,Low,8,Rarely,Peer Collaboration,Improved
+S0220,18,Male,Reading/Writing,83,83,54,Short,Medium,11,Daily,Online Learning,Declined
+S0221,12,Other,Auditory,74,89,74,Short,Medium,1,Rarely,Tutoring,Stable
+S0222,15,Male,Kinesthetic,93,59,69,Medium,Low,11,Rarely,Online Learning,Improved
+S0223,13,Other,Auditory,50,75,68,Medium,Low,11,Weekly,Online Learning,Declined
+S0224,14,Other,Reading/Writing,72,99,90,Medium,Low,5,Daily,Peer Collaboration,Improved
+S0225,15,Female,Reading/Writing,51,89,54,Medium,High,6,Rarely,Tutoring,Declined
+S0226,16,Female,Auditory,92,69,87,Long,High,1,Daily,Peer Collaboration,Stable
+S0227,16,Other,Kinesthetic,85,92,71,Medium,High,12,Daily,Online Learning,Declined
+S0228,11,Male,Visual,74,68,87,Short,Medium,5,Weekly,Tutoring,Declined
+S0229,13,Other,Visual,92,50,87,Short,Medium,6,Rarely,Online Learning,Declined
+S0230,17,Other,Auditory,78,71,62,Long,High,2,Daily,Online Learning,Declined
+S0231,18,Other,Kinesthetic,86,82,51,Long,High,10,Rarely,Peer Collaboration,Declined
+S0232,11,Other,Auditory,65,99,96,Long,High,9,Weekly,Online Learning,Stable
+S0233,10,Other,Auditory,99,70,51,Medium,Medium,10,Daily,Tutoring,Stable
+S0234,18,Male,Visual,63,58,94,Medium,Low,2,Daily,Online Learning,Stable
+S0235,12,Female,Visual,95,70,64,Short,Medium,14,Daily,Online Learning,Stable
+S0236,17,Male,Visual,89,54,56,Short,Low,8,Weekly,Peer Collaboration,Declined
+S0237,17,Male,Reading/Writing,99,83,54,Short,Low,4,Weekly,Online Learning,Improved
+S0238,16,Other,Visual,81,92,75,Medium,High,6,Rarely,Online Learning,Stable
+S0239,13,Male,Visual,54,92,71,Long,High,12,Daily,Online Learning,Improved
+S0240,11,Female,Reading/Writing,79,99,88,Short,Medium,13,Rarely,Online Learning,Improved
+S0241,15,Male,Visual,56,92,86,Long,High,8,Rarely,Tutoring,Stable
+S0242,14,Male,Reading/Writing,92,58,54,Long,Low,12,Weekly,Peer Collaboration,Stable
+S0243,18,Male,Visual,75,54,76,Long,Medium,9,Rarely,Tutoring,Stable
+S0244,17,Other,Auditory,73,69,90,Short,Medium,14,Weekly,Peer Collaboration,Improved
+S0245,11,Other,Kinesthetic,88,66,75,Long,Low,13,Weekly,Tutoring,Improved
+S0246,15,Other,Kinesthetic,86,95,67,Short,Low,1,Daily,Online Learning,Improved
+S0247,16,Other,Kinesthetic,78,53,99,Medium,High,13,Rarely,Tutoring,Improved
+S0248,17,Male,Auditory,50,98,51,Long,High,2,Weekly,Tutoring,Improved
+S0249,10,Other,Kinesthetic,72,95,84,Medium,High,15,Rarely,Peer Collaboration,Improved
+S0250,14,Other,Reading/Writing,76,93,84,Long,Low,8,Weekly,Peer Collaboration,Declined
+S0251,18,Other,Auditory,92,88,68,Long,Medium,9,Daily,Tutoring,Improved
+S0252,12,Other,Visual,87,57,61,Medium,Medium,4,Rarely,Tutoring,Declined
+S0253,11,Male,Reading/Writing,54,84,66,Short,Low,8,Weekly,Tutoring,Declined
+S0254,12,Female,Auditory,80,77,71,Medium,Low,9,Rarely,Online Learning,Improved
+S0255,17,Female,Reading/Writing,62,81,89,Long,Low,14,Daily,Online Learning,Declined
+S0256,10,Male,Visual,86,55,60,Medium,High,2,Daily,Peer Collaboration,Improved
+S0257,10,Other,Reading/Writing,73,81,54,Medium,Low,3,Daily,Tutoring,Stable
+S0258,16,Other,Visual,80,78,65,Medium,High,7,Weekly,Tutoring,Stable
+S0259,15,Other,Auditory,83,61,73,Long,Medium,10,Weekly,Peer Collaboration,Stable
+S0260,16,Female,Kinesthetic,55,78,66,Short,Medium,5,Rarely,Online Learning,Improved
+S0261,16,Female,Visual,89,50,79,Medium,Medium,7,Weekly,Online Learning,Stable
+S0262,12,Male,Kinesthetic,66,75,71,Short,Medium,13,Daily,Peer Collaboration,Improved
+S0263,14,Female,Kinesthetic,92,67,82,Long,High,8,Rarely,Online Learning,Stable
+S0264,15,Other,Reading/Writing,61,73,56,Long,Low,10,Rarely,Tutoring,Declined
+S0265,18,Female,Kinesthetic,79,82,69,Long,High,8,Rarely,Online Learning,Improved
+S0266,16,Other,Reading/Writing,67,57,65,Short,Low,1,Rarely,Online Learning,Stable
+S0267,13,Other,Visual,87,91,50,Medium,Medium,15,Daily,Tutoring,Stable
+S0268,18,Male,Kinesthetic,59,52,77,Medium,Medium,8,Rarely,Online Learning,Declined
+S0269,12,Female,Kinesthetic,56,94,83,Long,High,5,Weekly,Peer Collaboration,Declined
+S0270,12,Female,Visual,54,60,61,Long,Medium,10,Daily,Online Learning,Improved
+S0271,15,Male,Auditory,86,54,56,Long,Low,1,Rarely,Peer Collaboration,Improved
+S0272,10,Other,Auditory,53,63,70,Medium,High,5,Weekly,Peer Collaboration,Improved
+S0273,15,Male,Reading/Writing,50,90,51,Medium,Medium,3,Rarely,Tutoring,Stable
+S0274,14,Other,Auditory,95,65,77,Long,Medium,12,Rarely,Peer Collaboration,Improved
+S0275,15,Other,Auditory,77,60,70,Medium,High,7,Rarely,Online Learning,Improved
+S0276,10,Other,Reading/Writing,82,88,80,Medium,High,2,Daily,Online Learning,Declined
+S0277,17,Male,Kinesthetic,60,67,84,Short,High,13,Weekly,Peer Collaboration,Stable
+S0278,12,Male,Reading/Writing,79,81,74,Medium,High,11,Daily,Tutoring,Improved
+S0279,15,Male,Kinesthetic,77,89,74,Long,High,6,Rarely,Online Learning,Declined
+S0280,17,Female,Reading/Writing,50,63,77,Long,Low,14,Weekly,Online Learning,Stable
+S0281,16,Male,Auditory,79,93,74,Long,Low,4,Daily,Online Learning,Declined
+S0282,15,Female,Kinesthetic,53,72,82,Long,High,3,Rarely,Online Learning,Improved
+S0283,11,Other,Reading/Writing,79,64,69,Medium,Medium,9,Rarely,Tutoring,Improved
+S0284,16,Male,Visual,64,88,80,Short,Low,10,Daily,Online Learning,Improved
+S0285,15,Female,Auditory,56,93,62,Medium,High,14,Weekly,Online Learning,Declined
+S0286,11,Female,Visual,72,88,73,Short,Low,3,Weekly,Online Learning,Stable
+S0287,16,Female,Visual,94,96,58,Long,Medium,9,Rarely,Peer Collaboration,Declined
+S0288,13,Other,Reading/Writing,88,91,51,Medium,Low,5,Rarely,Tutoring,Stable
+S0289,11,Male,Auditory,70,51,87,Short,High,14,Daily,Peer Collaboration,Declined
+S0290,17,Male,Auditory,100,68,89,Short,Low,8,Rarely,Online Learning,Improved
+S0291,18,Other,Reading/Writing,85,93,72,Short,Medium,8,Rarely,Tutoring,Stable
+S0292,17,Male,Visual,62,88,72,Short,High,7,Weekly,Online Learning,Improved
+S0293,18,Other,Kinesthetic,84,79,61,Short,Medium,1,Daily,Online Learning,Improved
+S0294,12,Male,Auditory,54,68,73,Short,Low,10,Daily,Tutoring,Stable
+S0295,13,Male,Auditory,93,91,54,Medium,Medium,7,Rarely,Peer Collaboration,Declined
+S0296,13,Other,Reading/Writing,95,51,95,Short,Low,11,Rarely,Peer Collaboration,Declined
+S0297,15,Other,Kinesthetic,65,77,72,Long,Medium,11,Weekly,Peer Collaboration,Declined
+S0298,15,Other,Auditory,99,74,98,Long,High,8,Daily,Online Learning,Stable
+S0299,14,Other,Auditory,99,100,97,Long,Low,6,Rarely,Peer Collaboration,Stable
+S0300,13,Female,Reading/Writing,51,56,74,Long,High,3,Rarely,Online Learning,Improved
+S0301,16,Other,Reading/Writing,83,86,60,Medium,Medium,1,Daily,Peer Collaboration,Improved
+S0302,14,Female,Kinesthetic,51,50,66,Long,Low,13,Weekly,Online Learning,Declined
+S0303,13,Female,Kinesthetic,55,50,58,Long,Low,9,Rarely,Peer Collaboration,Declined
+S0304,17,Male,Kinesthetic,89,64,94,Short,Low,8,Daily,Tutoring,Declined
+S0305,10,Other,Auditory,75,55,100,Medium,Low,15,Daily,Tutoring,Declined
+S0306,16,Male,Reading/Writing,72,59,91,Short,Low,10,Daily,Online Learning,Stable
+S0307,18,Male,Kinesthetic,60,75,80,Long,High,15,Weekly,Peer Collaboration,Stable
+S0308,15,Female,Kinesthetic,96,84,86,Short,High,4,Weekly,Peer Collaboration,Improved
+S0309,11,Female,Visual,57,94,67,Medium,Low,6,Daily,Online Learning,Improved
+S0310,16,Female,Kinesthetic,59,92,72,Short,Low,2,Daily,Peer Collaboration,Improved
+S0311,17,Other,Visual,82,93,63,Short,Medium,3,Weekly,Online Learning,Improved
+S0312,17,Female,Visual,78,98,52,Long,High,3,Daily,Online Learning,Improved
+S0313,17,Other,Kinesthetic,83,65,58,Short,High,2,Weekly,Peer Collaboration,Improved
+S0314,16,Female,Kinesthetic,56,97,84,Short,Low,9,Daily,Tutoring,Stable
+S0315,18,Female,Reading/Writing,97,74,50,Long,High,6,Weekly,Online Learning,Declined
+S0316,12,Male,Kinesthetic,65,65,97,Medium,High,10,Weekly,Peer Collaboration,Stable
+S0317,15,Male,Kinesthetic,89,93,67,Long,Low,10,Weekly,Tutoring,Stable
+S0318,14,Other,Reading/Writing,93,60,83,Long,High,11,Weekly,Peer Collaboration,Declined
+S0319,15,Male,Visual,74,51,58,Medium,Low,14,Daily,Peer Collaboration,Improved
+S0320,10,Other,Visual,88,65,93,Short,Medium,10,Daily,Online Learning,Improved
+S0321,10,Female,Visual,78,60,93,Short,Low,10,Weekly,Tutoring,Declined
+S0322,11,Other,Auditory,71,67,82,Medium,Low,6,Rarely,Online Learning,Declined
+S0323,17,Female,Kinesthetic,94,95,69,Short,Medium,7,Rarely,Online Learning,Stable
+S0324,17,Male,Auditory,63,87,63,Long,Medium,3,Weekly,Online Learning,Declined
+S0325,18,Male,Auditory,67,55,63,Short,High,14,Weekly,Online Learning,Declined
+S0326,16,Male,Auditory,78,90,69,Long,High,2,Rarely,Tutoring,Stable
+S0327,14,Female,Reading/Writing,59,97,56,Medium,Low,2,Rarely,Peer Collaboration,Stable
+S0328,15,Male,Kinesthetic,70,66,95,Medium,Medium,10,Rarely,Peer Collaboration,Improved
+S0329,16,Male,Auditory,96,51,59,Short,Medium,9,Weekly,Peer Collaboration,Declined
+S0330,12,Other,Visual,83,96,89,Long,Medium,3,Weekly,Online Learning,Declined
+S0331,12,Other,Kinesthetic,56,76,64,Short,Low,13,Rarely,Tutoring,Improved
+S0332,16,Male,Auditory,67,88,82,Medium,High,12,Weekly,Tutoring,Improved
+S0333,12,Female,Visual,54,89,72,Short,Medium,6,Weekly,Online Learning,Stable
+S0334,13,Other,Visual,97,99,91,Medium,High,5,Rarely,Tutoring,Declined
+S0335,14,Other,Kinesthetic,67,70,71,Long,Medium,3,Daily,Tutoring,Declined
+S0336,16,Female,Auditory,64,74,65,Long,Low,6,Daily,Tutoring,Stable
+S0337,11,Other,Kinesthetic,83,87,94,Long,High,15,Rarely,Peer Collaboration,Improved
+S0338,17,Other,Reading/Writing,95,62,71,Long,Medium,8,Daily,Peer Collaboration,Improved
+S0339,17,Female,Visual,69,56,65,Long,Low,12,Rarely,Online Learning,Improved
+S0340,10,Male,Kinesthetic,66,95,53,Long,High,1,Weekly,Peer Collaboration,Declined
+S0341,10,Other,Auditory,95,73,79,Short,Low,15,Daily,Online Learning,Stable
+S0342,10,Other,Auditory,51,83,89,Medium,High,10,Rarely,Tutoring,Declined
+S0343,15,Female,Visual,93,77,75,Medium,High,3,Daily,Online Learning,Improved
+S0344,14,Male,Reading/Writing,56,97,67,Short,Low,14,Weekly,Online Learning,Declined
+S0345,16,Female,Visual,69,63,100,Short,Medium,11,Rarely,Tutoring,Improved
+S0346,17,Other,Visual,98,91,95,Medium,Low,2,Weekly,Online Learning,Improved
+S0347,11,Male,Kinesthetic,57,79,75,Medium,Medium,15,Weekly,Online Learning,Improved
+S0348,16,Female,Reading/Writing,56,90,70,Long,Medium,2,Weekly,Online Learning,Declined
+S0349,14,Female,Reading/Writing,94,66,67,Short,Medium,14,Weekly,Peer Collaboration,Declined
+S0350,11,Male,Auditory,51,56,80,Short,Low,11,Daily,Online Learning,Improved
+S0351,13,Female,Auditory,73,72,55,Short,Low,5,Rarely,Online Learning,Stable
+S0352,11,Other,Kinesthetic,74,50,93,Short,High,11,Daily,Tutoring,Declined
+S0353,17,Male,Auditory,78,89,81,Long,Low,3,Rarely,Online Learning,Declined
+S0354,12,Female,Reading/Writing,77,72,69,Medium,Medium,12,Daily,Online Learning,Declined
+S0355,15,Male,Visual,54,66,94,Short,High,5,Rarely,Online Learning,Declined
+S0356,10,Male,Kinesthetic,100,51,75,Long,Low,6,Rarely,Online Learning,Improved
+S0357,13,Female,Kinesthetic,70,89,75,Long,Low,2,Weekly,Tutoring,Improved
+S0358,17,Other,Kinesthetic,52,84,53,Medium,High,6,Weekly,Online Learning,Stable
+S0359,17,Female,Visual,61,67,68,Long,Medium,12,Rarely,Tutoring,Improved
+S0360,14,Other,Reading/Writing,90,89,70,Long,Low,14,Weekly,Tutoring,Improved
+S0361,10,Female,Auditory,51,89,94,Medium,High,3,Weekly,Online Learning,Improved
+S0362,12,Male,Reading/Writing,95,97,79,Long,Low,8,Daily,Online Learning,Declined
+S0363,16,Male,Auditory,64,97,80,Long,High,9,Daily,Peer Collaboration,Stable
+S0364,11,Male,Visual,89,71,84,Medium,Medium,1,Rarely,Tutoring,Improved
+S0365,14,Male,Reading/Writing,52,88,59,Medium,High,7,Weekly,Peer Collaboration,Declined
+S0366,16,Female,Auditory,83,58,99,Short,Low,5,Rarely,Peer Collaboration,Stable
+S0367,16,Other,Auditory,92,100,84,Long,High,9,Weekly,Online Learning,Declined
+S0368,15,Male,Auditory,56,77,54,Long,High,4,Weekly,Tutoring,Improved
+S0369,10,Female,Visual,97,74,79,Long,High,8,Weekly,Tutoring,Stable
+S0370,14,Male,Visual,75,74,80,Medium,Medium,9,Weekly,Online Learning,Stable
+S0371,10,Female,Reading/Writing,69,95,64,Long,Low,10,Rarely,Tutoring,Declined
+S0372,13,Female,Visual,70,99,60,Short,High,10,Rarely,Online Learning,Declined
+S0373,10,Male,Reading/Writing,59,71,73,Medium,Low,14,Rarely,Tutoring,Declined
+S0374,12,Female,Auditory,92,50,94,Short,High,9,Rarely,Tutoring,Improved
+S0375,13,Male,Reading/Writing,65,86,97,Short,Low,6,Rarely,Peer Collaboration,Stable
+S0376,15,Other,Reading/Writing,80,99,79,Short,Medium,8,Daily,Peer Collaboration,Stable
+S0377,10,Male,Reading/Writing,62,67,51,Short,Low,7,Weekly,Tutoring,Improved
+S0378,11,Other,Auditory,94,98,92,Short,High,13,Daily,Tutoring,Stable
+S0379,15,Female,Auditory,93,76,78,Medium,High,8,Daily,Tutoring,Improved
+S0380,12,Female,Kinesthetic,71,96,93,Short,Low,2,Daily,Peer Collaboration,Declined
+S0381,11,Female,Kinesthetic,53,84,98,Long,High,11,Weekly,Online Learning,Declined
+S0382,15,Other,Reading/Writing,68,81,74,Short,High,14,Weekly,Online Learning,Stable
+S0383,17,Female,Auditory,74,50,75,Long,High,3,Daily,Peer Collaboration,Improved
+S0384,17,Other,Reading/Writing,64,65,83,Medium,Low,9,Rarely,Peer Collaboration,Improved
+S0385,16,Other,Kinesthetic,55,53,89,Short,Medium,2,Rarely,Peer Collaboration,Declined
+S0386,16,Female,Auditory,72,82,66,Short,Low,15,Weekly,Peer Collaboration,Declined
+S0387,17,Other,Kinesthetic,59,98,95,Short,High,11,Weekly,Online Learning,Declined
+S0388,13,Male,Visual,93,72,62,Long,High,3,Weekly,Peer Collaboration,Improved
+S0389,10,Other,Kinesthetic,96,83,96,Short,Medium,5,Weekly,Peer Collaboration,Stable
+S0390,16,Male,Kinesthetic,62,82,88,Long,Medium,12,Rarely,Peer Collaboration,Stable
+S0391,16,Other,Kinesthetic,99,99,77,Long,High,7,Daily,Online Learning,Improved
+S0392,15,Female,Visual,64,78,71,Long,High,13,Daily,Tutoring,Declined
+S0393,17,Other,Reading/Writing,75,84,93,Short,High,7,Daily,Peer Collaboration,Stable
+S0394,15,Other,Reading/Writing,86,77,99,Short,Medium,1,Weekly,Tutoring,Declined
+S0395,12,Other,Visual,65,93,57,Long,Medium,2,Weekly,Tutoring,Improved
+S0396,12,Male,Auditory,81,89,91,Short,Low,15,Weekly,Tutoring,Stable
+S0397,16,Female,Auditory,76,87,79,Medium,Low,9,Weekly,Online Learning,Improved
+S0398,13,Male,Reading/Writing,76,69,51,Long,Low,11,Rarely,Online Learning,Declined
+S0399,17,Other,Reading/Writing,70,61,87,Short,Medium,15,Weekly,Peer Collaboration,Declined
+S0400,11,Other,Kinesthetic,85,97,67,Short,High,9,Rarely,Peer Collaboration,Improved
+S0401,13,Male,Auditory,66,78,79,Long,Low,2,Weekly,Online Learning,Declined
+S0402,17,Female,Kinesthetic,71,86,85,Short,High,14,Daily,Peer Collaboration,Declined
+S0403,17,Other,Reading/Writing,68,70,61,Short,Medium,10,Weekly,Tutoring,Declined
+S0404,10,Other,Reading/Writing,87,74,74,Medium,High,15,Rarely,Online Learning,Stable
+S0405,15,Other,Reading/Writing,88,75,55,Medium,Medium,15,Rarely,Peer Collaboration,Stable
+S0406,18,Other,Kinesthetic,82,72,98,Medium,Low,9,Weekly,Tutoring,Improved
+S0407,14,Male,Auditory,74,75,63,Short,Low,14,Weekly,Peer Collaboration,Declined
+S0408,14,Other,Visual,90,59,65,Short,Medium,4,Weekly,Online Learning,Declined
+S0409,18,Female,Kinesthetic,56,85,93,Long,High,11,Daily,Online Learning,Improved
+S0410,10,Female,Kinesthetic,92,92,95,Medium,Medium,5,Rarely,Peer Collaboration,Improved
+S0411,12,Male,Auditory,87,99,55,Medium,Low,14,Weekly,Peer Collaboration,Stable
+S0412,15,Male,Kinesthetic,52,77,92,Medium,High,15,Rarely,Peer Collaboration,Improved
+S0413,17,Male,Kinesthetic,64,50,71,Long,Medium,7,Weekly,Tutoring,Improved
+S0414,14,Other,Reading/Writing,86,65,84,Medium,Low,3,Weekly,Online Learning,Stable
+S0415,13,Male,Visual,98,59,80,Medium,Low,15,Weekly,Online Learning,Improved
+S0416,15,Other,Kinesthetic,76,61,57,Long,Medium,6,Rarely,Online Learning,Stable
+S0417,13,Male,Kinesthetic,87,84,83,Long,Low,1,Daily,Peer Collaboration,Declined
+S0418,16,Male,Auditory,84,86,56,Short,Medium,5,Daily,Peer Collaboration,Declined
+S0419,15,Female,Reading/Writing,68,88,90,Short,High,12,Daily,Tutoring,Declined
+S0420,16,Female,Visual,82,84,80,Long,Low,4,Daily,Tutoring,Declined
+S0421,14,Other,Auditory,60,86,70,Long,High,2,Weekly,Online Learning,Declined
+S0422,15,Other,Kinesthetic,85,93,76,Long,High,10,Weekly,Peer Collaboration,Declined
+S0423,12,Female,Visual,60,88,67,Medium,Low,15,Daily,Peer Collaboration,Declined
+S0424,12,Female,Auditory,60,66,76,Short,Low,4,Rarely,Peer Collaboration,Improved
+S0425,18,Other,Kinesthetic,73,86,93,Long,Medium,6,Daily,Tutoring,Declined
+S0426,15,Female,Visual,79,80,96,Long,Low,11,Rarely,Online Learning,Declined
+S0427,14,Other,Reading/Writing,98,60,89,Long,Medium,8,Rarely,Tutoring,Declined
+S0428,15,Female,Kinesthetic,89,64,88,Long,Low,10,Weekly,Peer Collaboration,Declined
+S0429,13,Female,Auditory,76,77,63,Long,High,12,Rarely,Online Learning,Declined
+S0430,15,Other,Auditory,69,56,51,Medium,Medium,7,Weekly,Tutoring,Stable
+S0431,18,Female,Reading/Writing,53,87,67,Short,Medium,2,Weekly,Tutoring,Improved
+S0432,10,Female,Kinesthetic,70,64,89,Medium,Medium,12,Rarely,Tutoring,Declined
+S0433,11,Female,Auditory,100,100,97,Medium,High,11,Weekly,Online Learning,Declined
+S0434,12,Other,Visual,94,71,96,Medium,Low,11,Daily,Online Learning,Stable
+S0435,15,Male,Auditory,73,77,66,Medium,Low,13,Daily,Online Learning,Declined
+S0436,15,Female,Reading/Writing,72,77,69,Medium,High,2,Weekly,Peer Collaboration,Improved
+S0437,10,Male,Auditory,62,55,99,Medium,High,1,Weekly,Online Learning,Improved
+S0438,15,Female,Auditory,98,78,68,Medium,Low,10,Rarely,Tutoring,Declined
+S0439,17,Other,Auditory,57,78,75,Long,Low,1,Weekly,Peer Collaboration,Stable
+S0440,12,Other,Kinesthetic,59,92,92,Long,Medium,14,Rarely,Peer Collaboration,Improved
+S0441,15,Male,Visual,71,79,77,Medium,High,2,Daily,Peer Collaboration,Stable
+S0442,16,Male,Reading/Writing,88,92,79,Short,Medium,12,Rarely,Tutoring,Improved
+S0443,18,Female,Kinesthetic,68,78,53,Long,Low,6,Daily,Peer Collaboration,Improved
+S0444,18,Male,Kinesthetic,79,77,94,Medium,Low,1,Daily,Tutoring,Declined
+S0445,13,Other,Kinesthetic,82,69,53,Short,High,2,Weekly,Tutoring,Declined
+S0446,17,Other,Kinesthetic,91,60,68,Long,Medium,10,Weekly,Peer Collaboration,Improved
+S0447,12,Other,Auditory,85,77,51,Medium,High,7,Rarely,Online Learning,Improved
+S0448,12,Male,Kinesthetic,75,62,99,Long,Medium,12,Weekly,Online Learning,Stable
+S0449,14,Female,Kinesthetic,80,72,68,Short,Low,15,Weekly,Peer Collaboration,Declined
+S0450,18,Other,Visual,96,59,66,Long,Medium,3,Rarely,Online Learning,Stable
+S0451,17,Other,Visual,75,68,91,Short,High,3,Weekly,Peer Collaboration,Stable
+S0452,18,Female,Reading/Writing,73,53,64,Long,Medium,2,Weekly,Tutoring,Declined
+S0453,17,Female,Visual,74,78,100,Short,High,8,Weekly,Online Learning,Stable
+S0454,13,Male,Visual,51,52,68,Long,High,15,Rarely,Tutoring,Stable
+S0455,17,Other,Auditory,97,75,61,Long,High,3,Daily,Tutoring,Declined
+S0456,11,Male,Reading/Writing,59,92,53,Short,Medium,5,Rarely,Peer Collaboration,Stable
+S0457,14,Other,Kinesthetic,81,71,52,Medium,Low,12,Weekly,Peer Collaboration,Declined
+S0458,12,Female,Visual,50,58,94,Long,Low,5,Daily,Peer Collaboration,Stable
+S0459,12,Male,Auditory,78,69,63,Medium,High,8,Rarely,Peer Collaboration,Declined
+S0460,13,Other,Reading/Writing,86,68,71,Long,Medium,4,Rarely,Tutoring,Stable
+S0461,16,Other,Reading/Writing,67,58,66,Short,High,14,Daily,Tutoring,Declined
+S0462,15,Male,Reading/Writing,68,98,50,Long,High,4,Rarely,Online Learning,Stable
+S0463,15,Male,Reading/Writing,56,99,84,Medium,High,3,Weekly,Online Learning,Stable
+S0464,10,Male,Auditory,64,51,88,Long,Low,4,Weekly,Tutoring,Stable
+S0465,17,Female,Auditory,79,84,59,Medium,Medium,6,Daily,Peer Collaboration,Declined
+S0466,16,Other,Visual,94,63,94,Long,Low,10,Weekly,Tutoring,Improved
+S0467,17,Other,Visual,65,57,93,Long,Low,15,Weekly,Tutoring,Stable
+S0468,17,Female,Visual,52,73,65,Long,Low,4,Daily,Tutoring,Stable
+S0469,14,Other,Auditory,58,87,66,Medium,Low,9,Rarely,Tutoring,Declined
+S0470,15,Male,Kinesthetic,67,51,60,Short,Low,2,Weekly,Online Learning,Stable
+S0471,14,Male,Reading/Writing,61,74,60,Long,Medium,3,Daily,Online Learning,Declined
+S0472,13,Other,Kinesthetic,60,83,95,Short,Medium,5,Daily,Tutoring,Declined
+S0473,17,Other,Auditory,86,80,91,Long,High,13,Rarely,Tutoring,Improved
+S0474,11,Other,Kinesthetic,82,59,71,Short,Medium,5,Daily,Peer Collaboration,Improved
+S0475,17,Female,Kinesthetic,68,82,94,Medium,High,13,Rarely,Peer Collaboration,Stable
+S0476,12,Male,Auditory,85,62,56,Long,High,12,Daily,Tutoring,Improved
+S0477,12,Male,Reading/Writing,86,82,80,Long,Low,10,Daily,Tutoring,Stable
+S0478,16,Other,Auditory,63,88,96,Short,High,12,Daily,Peer Collaboration,Improved
+S0479,12,Male,Visual,63,100,99,Long,High,1,Daily,Online Learning,Declined
+S0480,18,Female,Reading/Writing,76,81,96,Medium,Medium,12,Daily,Peer Collaboration,Declined
+S0481,14,Male,Reading/Writing,66,69,66,Short,Low,10,Rarely,Peer Collaboration,Stable
+S0482,13,Male,Visual,83,83,98,Short,High,8,Daily,Online Learning,Stable
+S0483,17,Other,Visual,52,98,58,Long,High,11,Rarely,Online Learning,Declined
+S0484,17,Male,Visual,71,76,69,Short,Low,14,Weekly,Peer Collaboration,Declined
+S0485,15,Female,Kinesthetic,59,64,75,Long,Low,13,Rarely,Online Learning,Improved
+S0486,13,Other,Reading/Writing,60,74,75,Long,Medium,11,Weekly,Peer Collaboration,Improved
+S0487,16,Male,Visual,57,92,63,Short,Low,9,Daily,Peer Collaboration,Improved
+S0488,17,Female,Auditory,67,81,66,Medium,Low,5,Rarely,Tutoring,Stable
+S0489,18,Other,Auditory,88,75,89,Long,Medium,5,Daily,Peer Collaboration,Stable
+S0490,11,Female,Auditory,61,71,84,Long,High,3,Weekly,Peer Collaboration,Stable
+S0491,11,Male,Visual,73,74,70,Short,Medium,13,Weekly,Peer Collaboration,Improved
+S0492,16,Other,Auditory,64,93,67,Long,Medium,2,Weekly,Peer Collaboration,Improved
+S0493,15,Female,Visual,80,52,86,Medium,High,13,Weekly,Peer Collaboration,Improved
+S0494,10,Other,Visual,55,52,74,Short,Medium,8,Daily,Peer Collaboration,Stable
+S0495,11,Male,Visual,90,83,80,Medium,Medium,13,Rarely,Tutoring,Improved
+S0496,14,Male,Reading/Writing,99,99,85,Medium,Low,10,Daily,Online Learning,Declined
+S0497,11,Female,Kinesthetic,55,60,85,Long,Low,2,Rarely,Peer Collaboration,Stable
+S0498,10,Male,Reading/Writing,100,57,54,Short,High,11,Rarely,Tutoring,Declined
+S0499,13,Male,Kinesthetic,92,64,98,Short,Medium,10,Weekly,Peer Collaboration,Stable
+S0500,12,Other,Kinesthetic,52,72,74,Medium,Low,5,Weekly,Online Learning,Stable
+S0501,14,Other,Reading/Writing,70,76,100,Short,Medium,6,Rarely,Peer Collaboration,Stable
+S0502,14,Female,Reading/Writing,83,67,99,Long,Medium,11,Daily,Peer Collaboration,Stable
+S0503,12,Female,Kinesthetic,77,59,63,Medium,High,2,Daily,Online Learning,Improved
+S0504,11,Male,Visual,80,88,65,Long,Low,7,Weekly,Tutoring,Stable
+S0505,14,Female,Reading/Writing,71,100,96,Long,Medium,8,Rarely,Peer Collaboration,Declined
+S0506,15,Other,Reading/Writing,97,91,64,Medium,Medium,6,Weekly,Online Learning,Declined
+S0507,13,Male,Kinesthetic,95,93,78,Long,Low,13,Weekly,Online Learning,Improved
+S0508,14,Female,Visual,55,71,71,Medium,Low,2,Rarely,Online Learning,Declined
+S0509,14,Other,Visual,65,94,64,Short,Medium,14,Daily,Tutoring,Stable
+S0510,14,Male,Kinesthetic,51,71,96,Short,Medium,6,Rarely,Peer Collaboration,Stable
+S0511,11,Male,Kinesthetic,91,95,59,Medium,Medium,14,Rarely,Peer Collaboration,Stable
+S0512,15,Female,Auditory,56,57,51,Long,High,6,Rarely,Online Learning,Stable
+S0513,13,Male,Kinesthetic,53,69,85,Long,Medium,1,Weekly,Peer Collaboration,Stable
+S0514,12,Female,Kinesthetic,99,52,83,Long,Medium,2,Rarely,Online Learning,Improved
+S0515,12,Other,Kinesthetic,75,58,95,Short,Medium,13,Weekly,Online Learning,Declined
+S0516,15,Female,Visual,74,75,71,Short,High,2,Weekly,Tutoring,Stable
+S0517,10,Male,Kinesthetic,71,67,62,Short,Low,4,Weekly,Online Learning,Declined
+S0518,16,Male,Visual,75,75,96,Medium,High,1,Weekly,Online Learning,Declined
+S0519,15,Female,Reading/Writing,67,64,78,Long,High,13,Daily,Peer Collaboration,Stable
+S0520,18,Female,Visual,83,85,79,Medium,Medium,6,Rarely,Peer Collaboration,Stable
+S0521,18,Male,Auditory,82,71,95,Short,Low,7,Rarely,Online Learning,Declined
+S0522,18,Female,Visual,70,86,81,Medium,High,12,Weekly,Online Learning,Stable
+S0523,12,Female,Reading/Writing,98,66,84,Short,High,6,Weekly,Online Learning,Improved
+S0524,15,Female,Auditory,51,59,92,Medium,Medium,11,Weekly,Online Learning,Stable
+S0525,16,Male,Reading/Writing,51,62,92,Short,Medium,8,Rarely,Online Learning,Improved
+S0526,13,Male,Reading/Writing,61,59,79,Long,Low,3,Weekly,Tutoring,Stable
+S0527,15,Other,Kinesthetic,61,84,69,Long,Medium,10,Weekly,Tutoring,Declined
+S0528,16,Other,Reading/Writing,66,54,70,Medium,High,11,Weekly,Online Learning,Declined
+S0529,15,Male,Kinesthetic,64,73,59,Medium,Medium,6,Weekly,Online Learning,Declined
+S0530,18,Male,Visual,60,59,86,Medium,High,10,Rarely,Peer Collaboration,Improved
+S0531,16,Female,Reading/Writing,51,96,69,Long,Medium,12,Weekly,Online Learning,Improved
+S0532,11,Male,Auditory,61,66,64,Short,Medium,4,Weekly,Online Learning,Improved
+S0533,16,Female,Kinesthetic,92,78,83,Long,Medium,10,Daily,Online Learning,Stable
+S0534,17,Male,Visual,75,66,85,Long,High,3,Weekly,Tutoring,Improved
+S0535,16,Male,Visual,50,99,62,Short,Low,8,Rarely,Peer Collaboration,Declined
+S0536,10,Female,Kinesthetic,61,82,82,Short,High,9,Rarely,Online Learning,Declined
+S0537,14,Other,Kinesthetic,91,67,85,Medium,High,10,Rarely,Peer Collaboration,Stable
+S0538,11,Other,Visual,51,78,71,Medium,Low,4,Weekly,Peer Collaboration,Stable
+S0539,14,Male,Reading/Writing,56,51,82,Medium,Low,12,Rarely,Online Learning,Stable
+S0540,13,Other,Auditory,80,88,50,Medium,Low,1,Rarely,Tutoring,Improved
+S0541,15,Female,Auditory,77,82,56,Short,Medium,6,Weekly,Tutoring,Stable
+S0542,16,Female,Kinesthetic,73,77,60,Short,Medium,4,Weekly,Tutoring,Declined
+S0543,15,Female,Reading/Writing,72,60,97,Long,High,6,Weekly,Online Learning,Declined
+S0544,18,Female,Auditory,55,75,81,Long,High,10,Weekly,Peer Collaboration,Improved
+S0545,18,Male,Visual,54,88,85,Short,Medium,13,Rarely,Peer Collaboration,Improved
+S0546,15,Male,Auditory,99,84,65,Short,Low,12,Weekly,Tutoring,Declined
+S0547,16,Male,Kinesthetic,74,92,84,Medium,High,14,Rarely,Tutoring,Improved
+S0548,12,Male,Kinesthetic,68,80,58,Long,Low,6,Daily,Tutoring,Declined
+S0549,16,Female,Auditory,55,87,70,Long,Medium,8,Weekly,Tutoring,Declined
+S0550,17,Female,Auditory,96,78,77,Long,High,6,Daily,Tutoring,Improved
+S0551,13,Other,Reading/Writing,87,67,61,Short,Medium,13,Daily,Online Learning,Stable
+S0552,16,Other,Reading/Writing,95,65,82,Long,High,15,Rarely,Peer Collaboration,Declined
+S0553,18,Female,Reading/Writing,69,62,80,Medium,Medium,1,Weekly,Online Learning,Improved
+S0554,10,Male,Kinesthetic,78,57,62,Long,Medium,14,Daily,Tutoring,Stable
+S0555,15,Female,Kinesthetic,67,61,98,Short,High,4,Rarely,Online Learning,Declined
+S0556,10,Female,Auditory,73,78,99,Long,Medium,11,Weekly,Tutoring,Declined
+S0557,10,Other,Kinesthetic,80,92,64,Short,Low,12,Daily,Peer Collaboration,Stable
+S0558,12,Other,Auditory,65,57,87,Long,Medium,2,Weekly,Peer Collaboration,Improved
+S0559,11,Female,Kinesthetic,60,67,88,Short,Low,11,Weekly,Peer Collaboration,Improved
+S0560,11,Other,Kinesthetic,81,73,62,Medium,Low,9,Weekly,Peer Collaboration,Stable
+S0561,13,Other,Visual,95,58,100,Long,Low,9,Daily,Peer Collaboration,Declined
+S0562,12,Other,Reading/Writing,76,59,91,Long,High,11,Weekly,Peer Collaboration,Stable
+S0563,12,Male,Reading/Writing,62,55,75,Long,High,6,Weekly,Peer Collaboration,Declined
+S0564,14,Female,Reading/Writing,97,70,89,Long,Medium,5,Rarely,Online Learning,Declined
+S0565,17,Male,Visual,87,89,97,Medium,Medium,14,Weekly,Tutoring,Improved
+S0566,12,Female,Kinesthetic,62,63,90,Medium,High,7,Weekly,Peer Collaboration,Improved
+S0567,18,Female,Visual,77,82,67,Medium,Low,10,Daily,Tutoring,Stable
+S0568,18,Other,Kinesthetic,63,73,81,Short,High,13,Rarely,Peer Collaboration,Stable
+S0569,15,Other,Visual,76,68,73,Long,Low,5,Weekly,Tutoring,Improved
+S0570,18,Other,Kinesthetic,54,81,74,Long,Low,4,Daily,Tutoring,Improved
+S0571,17,Other,Auditory,77,69,89,Long,Medium,7,Rarely,Online Learning,Stable
+S0572,17,Male,Auditory,81,81,84,Short,Medium,8,Daily,Online Learning,Declined
+S0573,15,Female,Reading/Writing,84,92,67,Medium,Low,4,Rarely,Tutoring,Improved
+S0574,11,Female,Kinesthetic,92,70,62,Medium,Low,4,Weekly,Online Learning,Declined
+S0575,13,Female,Kinesthetic,77,73,80,Short,Medium,7,Weekly,Online Learning,Improved
+S0576,10,Female,Reading/Writing,64,80,76,Long,Low,12,Daily,Online Learning,Declined
+S0577,13,Female,Reading/Writing,50,56,87,Short,Low,4,Rarely,Peer Collaboration,Improved
+S0578,17,Female,Reading/Writing,63,79,68,Long,High,6,Rarely,Online Learning,Stable
+S0579,13,Other,Reading/Writing,75,81,81,Medium,Medium,1,Weekly,Peer Collaboration,Improved
+S0580,13,Other,Auditory,80,97,65,Short,Medium,13,Daily,Tutoring,Declined
+S0581,18,Other,Reading/Writing,85,79,94,Short,Medium,15,Daily,Tutoring,Declined
+S0582,11,Male,Auditory,93,89,73,Long,Low,5,Rarely,Peer Collaboration,Stable
+S0583,12,Other,Kinesthetic,51,90,66,Short,High,10,Weekly,Peer Collaboration,Stable
+S0584,11,Female,Reading/Writing,92,66,77,Short,Medium,12,Weekly,Peer Collaboration,Improved
+S0585,10,Female,Visual,51,74,90,Medium,Medium,3,Rarely,Peer Collaboration,Declined
+S0586,10,Male,Auditory,50,60,84,Medium,Low,15,Weekly,Peer Collaboration,Declined
+S0587,18,Other,Auditory,61,95,64,Medium,Medium,15,Daily,Peer Collaboration,Improved
+S0588,13,Male,Auditory,86,54,56,Short,Medium,11,Rarely,Tutoring,Stable
+S0589,13,Male,Visual,100,89,98,Medium,Low,11,Weekly,Tutoring,Improved
+S0590,14,Male,Kinesthetic,78,73,75,Long,Low,5,Rarely,Peer Collaboration,Stable
+S0591,13,Other,Visual,85,74,82,Long,Low,6,Weekly,Peer Collaboration,Stable
+S0592,11,Other,Auditory,74,82,88,Short,Medium,10,Daily,Peer Collaboration,Declined
+S0593,17,Female,Auditory,97,83,67,Medium,High,15,Weekly,Peer Collaboration,Declined
+S0594,18,Female,Reading/Writing,56,78,61,Medium,Medium,6,Rarely,Peer Collaboration,Stable
+S0595,18,Other,Reading/Writing,64,56,87,Medium,Medium,14,Daily,Online Learning,Improved
+S0596,13,Other,Reading/Writing,62,77,72,Medium,Low,12,Daily,Tutoring,Declined
+S0597,15,Male,Reading/Writing,95,54,85,Long,Low,5,Daily,Peer Collaboration,Stable
+S0598,16,Male,Visual,71,80,68,Medium,Medium,3,Daily,Tutoring,Stable
+S0599,13,Female,Visual,70,89,96,Short,Low,8,Weekly,Peer Collaboration,Declined
+S0600,14,Female,Reading/Writing,93,87,73,Long,Medium,7,Weekly,Tutoring,Declined
+S0601,12,Male,Reading/Writing,57,68,89,Long,Medium,10,Rarely,Online Learning,Declined
+S0602,18,Male,Reading/Writing,80,97,78,Short,Medium,4,Weekly,Peer Collaboration,Improved
+S0603,18,Male,Auditory,79,72,73,Medium,Low,2,Daily,Online Learning,Declined
+S0604,15,Male,Reading/Writing,87,68,95,Long,Medium,6,Daily,Online Learning,Declined
+S0605,10,Other,Auditory,98,97,50,Short,Medium,6,Weekly,Online Learning,Improved
+S0606,18,Other,Kinesthetic,74,54,57,Short,Low,10,Daily,Online Learning,Declined
+S0607,10,Other,Auditory,98,57,85,Long,Medium,4,Daily,Tutoring,Stable
+S0608,11,Female,Visual,69,63,98,Long,Medium,6,Rarely,Online Learning,Stable
+S0609,16,Other,Kinesthetic,95,96,77,Medium,Medium,8,Rarely,Tutoring,Declined
+S0610,14,Female,Reading/Writing,67,58,96,Short,Medium,2,Rarely,Tutoring,Declined
+S0611,12,Female,Auditory,90,78,88,Medium,Low,2,Daily,Online Learning,Stable
+S0612,12,Female,Auditory,85,62,96,Short,Medium,10,Daily,Tutoring,Declined
+S0613,18,Female,Auditory,71,72,81,Long,Low,13,Daily,Peer Collaboration,Stable
+S0614,15,Male,Reading/Writing,64,53,78,Medium,Medium,14,Weekly,Peer Collaboration,Stable
+S0615,14,Other,Auditory,75,77,67,Medium,Medium,6,Weekly,Peer Collaboration,Stable
+S0616,11,Female,Reading/Writing,92,92,78,Medium,High,1,Rarely,Tutoring,Declined
+S0617,13,Female,Kinesthetic,90,97,97,Long,High,3,Daily,Peer Collaboration,Improved
+S0618,13,Other,Reading/Writing,77,78,51,Long,Low,4,Daily,Tutoring,Declined
+S0619,17,Other,Auditory,90,99,84,Medium,Medium,11,Weekly,Tutoring,Declined
+S0620,13,Male,Kinesthetic,69,90,74,Short,Low,10,Daily,Peer Collaboration,Stable
+S0621,14,Female,Auditory,100,96,58,Medium,Low,12,Weekly,Tutoring,Declined
+S0622,10,Other,Visual,67,80,86,Medium,Low,11,Daily,Online Learning,Stable
+S0623,14,Other,Visual,88,56,83,Medium,Medium,4,Daily,Peer Collaboration,Declined
+S0624,14,Male,Visual,95,80,89,Long,Medium,9,Weekly,Peer Collaboration,Declined
+S0625,14,Female,Kinesthetic,61,60,88,Medium,High,4,Weekly,Online Learning,Declined
+S0626,14,Male,Kinesthetic,57,86,61,Short,High,11,Daily,Peer Collaboration,Declined
+S0627,10,Female,Auditory,92,64,65,Long,Low,4,Daily,Peer Collaboration,Stable
+S0628,14,Male,Auditory,57,61,99,Long,Low,4,Rarely,Tutoring,Improved
+S0629,12,Male,Auditory,69,93,51,Medium,Low,12,Rarely,Tutoring,Declined
+S0630,13,Male,Reading/Writing,97,61,90,Long,Low,13,Daily,Online Learning,Improved
+S0631,11,Other,Visual,96,95,99,Long,Low,13,Weekly,Tutoring,Improved
+S0632,13,Male,Auditory,77,78,85,Medium,Low,6,Weekly,Online Learning,Improved
+S0633,14,Other,Visual,94,50,68,Short,Low,9,Daily,Online Learning,Stable
+S0634,12,Female,Kinesthetic,88,74,50,Medium,Low,15,Rarely,Online Learning,Declined
+S0635,10,Female,Kinesthetic,70,53,56,Long,Low,2,Weekly,Tutoring,Declined
+S0636,10,Male,Auditory,84,93,67,Medium,Low,1,Weekly,Online Learning,Declined
+S0637,13,Male,Kinesthetic,59,55,80,Medium,High,11,Weekly,Tutoring,Stable
+S0638,16,Female,Reading/Writing,82,94,79,Long,High,6,Weekly,Online Learning,Stable
+S0639,10,Female,Visual,61,81,87,Long,Medium,9,Rarely,Online Learning,Declined
+S0640,16,Male,Visual,64,67,61,Medium,Low,2,Weekly,Online Learning,Improved
+S0641,12,Female,Kinesthetic,81,52,82,Medium,Low,8,Rarely,Online Learning,Improved
+S0642,15,Male,Reading/Writing,78,55,93,Long,Low,1,Daily,Online Learning,Stable
+S0643,18,Female,Auditory,58,70,92,Medium,Low,15,Rarely,Peer Collaboration,Declined
+S0644,11,Female,Auditory,74,57,96,Long,Medium,11,Daily,Peer Collaboration,Declined
+S0645,15,Male,Auditory,84,56,62,Long,High,1,Daily,Online Learning,Declined
+S0646,13,Male,Visual,61,77,78,Short,Low,8,Daily,Tutoring,Declined
+S0647,13,Male,Auditory,67,100,94,Short,Low,8,Daily,Online Learning,Declined
+S0648,13,Male,Reading/Writing,78,54,71,Short,Low,15,Weekly,Tutoring,Improved
+S0649,14,Male,Kinesthetic,72,99,70,Long,Low,8,Daily,Online Learning,Improved
+S0650,18,Male,Visual,76,83,66,Medium,Medium,13,Rarely,Peer Collaboration,Stable
+S0651,18,Other,Reading/Writing,93,50,63,Medium,High,12,Daily,Peer Collaboration,Stable
+S0652,16,Other,Reading/Writing,73,78,96,Long,Low,12,Daily,Online Learning,Improved
+S0653,14,Male,Visual,59,68,60,Short,High,10,Rarely,Tutoring,Improved
+S0654,18,Other,Visual,82,77,92,Short,Medium,12,Weekly,Peer Collaboration,Stable
+S0655,17,Male,Visual,65,51,73,Medium,Low,6,Daily,Online Learning,Declined
+S0656,18,Other,Visual,55,79,57,Short,Low,11,Daily,Online Learning,Stable
+S0657,18,Male,Reading/Writing,63,64,86,Long,High,15,Rarely,Tutoring,Improved
+S0658,15,Other,Reading/Writing,83,62,98,Short,High,9,Rarely,Tutoring,Declined
+S0659,18,Other,Kinesthetic,64,80,87,Long,Medium,1,Rarely,Online Learning,Stable
+S0660,16,Female,Auditory,94,91,78,Medium,High,8,Rarely,Peer Collaboration,Stable
+S0661,15,Other,Reading/Writing,54,81,98,Long,Medium,2,Daily,Online Learning,Improved
+S0662,12,Male,Visual,64,75,97,Short,Low,5,Rarely,Peer Collaboration,Stable
+S0663,15,Other,Kinesthetic,56,74,56,Medium,Medium,8,Weekly,Online Learning,Improved
+S0664,13,Other,Kinesthetic,95,89,82,Long,High,7,Rarely,Online Learning,Stable
+S0665,13,Female,Kinesthetic,75,62,99,Long,Medium,13,Weekly,Peer Collaboration,Declined
+S0666,14,Other,Kinesthetic,51,96,87,Long,High,5,Rarely,Peer Collaboration,Stable
+S0667,15,Female,Visual,96,62,55,Short,Low,14,Daily,Tutoring,Stable
+S0668,12,Other,Reading/Writing,75,51,84,Short,High,11,Rarely,Online Learning,Improved
+S0669,17,Other,Auditory,74,59,65,Medium,Low,11,Weekly,Tutoring,Stable
+S0670,16,Male,Auditory,66,90,86,Short,Low,1,Weekly,Online Learning,Declined
+S0671,14,Other,Kinesthetic,71,53,97,Long,High,15,Weekly,Peer Collaboration,Stable
+S0672,10,Other,Kinesthetic,89,58,60,Short,Medium,8,Weekly,Peer Collaboration,Stable
+S0673,12,Male,Reading/Writing,78,85,93,Long,Low,8,Weekly,Online Learning,Stable
+S0674,18,Female,Visual,55,55,83,Medium,Low,15,Daily,Online Learning,Stable
+S0675,16,Female,Visual,81,70,71,Medium,Low,12,Rarely,Online Learning,Stable
+S0676,12,Female,Auditory,59,72,59,Medium,Medium,3,Daily,Online Learning,Stable
+S0677,12,Female,Auditory,89,91,67,Short,High,10,Daily,Tutoring,Improved
+S0678,15,Female,Kinesthetic,60,54,90,Medium,High,12,Rarely,Tutoring,Stable
+S0679,18,Male,Reading/Writing,66,61,72,Long,Low,10,Rarely,Online Learning,Improved
+S0680,10,Other,Auditory,56,59,50,Short,Low,2,Rarely,Peer Collaboration,Declined
+S0681,13,Male,Visual,94,64,98,Long,Medium,2,Rarely,Online Learning,Stable
+S0682,15,Female,Reading/Writing,79,98,95,Short,High,7,Rarely,Peer Collaboration,Stable
+S0683,10,Male,Visual,93,60,71,Medium,Low,1,Weekly,Peer Collaboration,Stable
+S0684,17,Other,Auditory,100,96,75,Long,Low,10,Daily,Tutoring,Stable
+S0685,11,Male,Reading/Writing,86,75,98,Short,Medium,14,Daily,Online Learning,Declined
+S0686,17,Male,Kinesthetic,65,59,87,Long,Low,8,Daily,Peer Collaboration,Stable
+S0687,13,Other,Reading/Writing,73,81,84,Medium,Low,2,Rarely,Peer Collaboration,Declined
+S0688,10,Other,Auditory,64,99,94,Medium,Low,11,Rarely,Online Learning,Improved
+S0689,17,Male,Reading/Writing,84,56,71,Short,Low,13,Rarely,Online Learning,Stable
+S0690,16,Female,Reading/Writing,85,85,75,Short,High,14,Weekly,Peer Collaboration,Declined
+S0691,16,Male,Reading/Writing,54,50,80,Long,Medium,3,Daily,Online Learning,Declined
+S0692,18,Female,Kinesthetic,100,59,73,Short,Medium,9,Rarely,Tutoring,Improved
+S0693,18,Other,Visual,75,74,79,Medium,Medium,5,Rarely,Peer Collaboration,Stable
+S0694,13,Male,Auditory,82,79,60,Short,Low,6,Rarely,Online Learning,Stable
+S0695,15,Female,Auditory,74,60,63,Long,Medium,15,Weekly,Online Learning,Stable
+S0696,15,Other,Visual,69,96,85,Short,High,15,Rarely,Peer Collaboration,Stable
+S0697,18,Male,Kinesthetic,95,86,72,Medium,Low,8,Rarely,Tutoring,Improved
+S0698,10,Male,Kinesthetic,75,64,65,Medium,Medium,3,Rarely,Peer Collaboration,Stable
+S0699,13,Female,Reading/Writing,79,50,55,Medium,Low,11,Daily,Peer Collaboration,Improved
+S0700,11,Male,Auditory,87,69,84,Short,Medium,2,Weekly,Online Learning,Declined
+S0701,15,Female,Kinesthetic,79,54,93,Medium,High,11,Weekly,Online Learning,Improved
+S0702,14,Other,Visual,81,88,62,Long,Medium,4,Daily,Tutoring,Stable
+S0703,10,Male,Kinesthetic,92,68,57,Long,Low,6,Rarely,Online Learning,Improved
+S0704,12,Female,Kinesthetic,82,99,50,Long,Low,8,Weekly,Tutoring,Declined
+S0705,13,Female,Reading/Writing,91,79,98,Medium,High,5,Rarely,Online Learning,Stable
+S0706,18,Other,Kinesthetic,78,89,51,Long,Low,15,Daily,Tutoring,Stable
+S0707,13,Other,Reading/Writing,69,56,99,Short,Medium,5,Rarely,Tutoring,Declined
+S0708,16,Other,Auditory,99,94,95,Medium,Medium,5,Weekly,Tutoring,Improved
+S0709,17,Male,Kinesthetic,50,79,71,Medium,Medium,5,Weekly,Tutoring,Declined
+S0710,12,Female,Visual,97,68,54,Long,High,14,Rarely,Online Learning,Declined
+S0711,17,Male,Kinesthetic,71,100,88,Short,High,10,Rarely,Online Learning,Declined
+S0712,14,Female,Visual,67,83,78,Long,Low,11,Weekly,Peer Collaboration,Declined
+S0713,11,Male,Kinesthetic,83,63,55,Short,Medium,7,Weekly,Online Learning,Stable
+S0714,14,Female,Auditory,55,78,60,Long,Medium,2,Daily,Peer Collaboration,Improved
+S0715,15,Female,Kinesthetic,82,89,56,Long,Low,6,Daily,Tutoring,Stable
+S0716,11,Female,Reading/Writing,96,84,59,Short,Low,14,Weekly,Tutoring,Stable
+S0717,16,Female,Auditory,89,75,78,Medium,High,5,Weekly,Online Learning,Stable
+S0718,10,Male,Auditory,71,67,79,Medium,Low,7,Daily,Online Learning,Improved
+S0719,15,Male,Visual,81,57,96,Medium,Low,15,Rarely,Peer Collaboration,Declined
+S0720,15,Female,Visual,66,78,87,Medium,Medium,3,Weekly,Peer Collaboration,Improved
+S0721,14,Female,Kinesthetic,53,92,70,Medium,High,14,Rarely,Tutoring,Declined
+S0722,18,Other,Reading/Writing,92,72,90,Short,High,5,Rarely,Peer Collaboration,Declined
+S0723,17,Female,Kinesthetic,83,71,59,Short,High,1,Weekly,Online Learning,Declined
+S0724,14,Male,Visual,96,61,99,Short,Medium,12,Weekly,Peer Collaboration,Improved
+S0725,14,Other,Kinesthetic,79,94,92,Long,Low,7,Weekly,Peer Collaboration,Improved
+S0726,17,Female,Visual,96,59,99,Long,Medium,7,Rarely,Online Learning,Declined
+S0727,14,Female,Kinesthetic,87,68,52,Short,High,9,Daily,Online Learning,Stable
+S0728,12,Other,Auditory,56,58,86,Long,Medium,8,Daily,Online Learning,Stable
+S0729,17,Other,Reading/Writing,69,97,68,Long,Low,9,Daily,Tutoring,Stable
+S0730,14,Other,Auditory,50,77,63,Short,Low,15,Weekly,Online Learning,Declined
+S0731,17,Other,Kinesthetic,87,79,54,Short,High,4,Rarely,Online Learning,Stable
+S0732,18,Female,Reading/Writing,50,53,63,Medium,Low,9,Daily,Tutoring,Declined
+S0733,17,Male,Auditory,84,84,77,Short,Medium,4,Rarely,Peer Collaboration,Improved
+S0734,12,Other,Reading/Writing,62,61,93,Medium,Low,6,Daily,Peer Collaboration,Improved
+S0735,16,Other,Visual,78,97,81,Long,Low,12,Rarely,Peer Collaboration,Stable
+S0736,12,Male,Visual,54,77,95,Short,High,15,Rarely,Tutoring,Improved
+S0737,16,Other,Reading/Writing,98,74,96,Short,Low,8,Weekly,Peer Collaboration,Improved
+S0738,10,Male,Kinesthetic,65,82,83,Short,Medium,6,Weekly,Tutoring,Declined
+S0739,16,Female,Kinesthetic,99,96,57,Short,Medium,9,Daily,Online Learning,Declined
+S0740,10,Female,Kinesthetic,61,66,69,Medium,Low,1,Weekly,Online Learning,Stable
+S0741,17,Other,Reading/Writing,94,96,88,Short,High,11,Weekly,Online Learning,Improved
+S0742,12,Male,Kinesthetic,63,77,74,Long,Low,1,Daily,Online Learning,Improved
+S0743,17,Other,Visual,67,50,81,Long,Medium,1,Daily,Online Learning,Stable
+S0744,17,Other,Auditory,84,81,75,Long,Low,14,Daily,Peer Collaboration,Declined
+S0745,11,Other,Visual,83,70,78,Short,High,14,Daily,Tutoring,Declined
+S0746,12,Female,Reading/Writing,85,97,100,Short,High,4,Daily,Online Learning,Declined
+S0747,14,Other,Reading/Writing,85,75,77,Short,Medium,12,Rarely,Online Learning,Improved
+S0748,17,Other,Kinesthetic,67,70,74,Long,Medium,4,Rarely,Online Learning,Stable
+S0749,18,Female,Auditory,97,71,92,Medium,High,8,Rarely,Peer Collaboration,Improved
+S0750,17,Male,Visual,65,58,98,Short,Low,9,Rarely,Online Learning,Stable
+S0751,17,Male,Kinesthetic,53,73,55,Short,High,5,Rarely,Peer Collaboration,Improved
+S0752,12,Male,Reading/Writing,98,74,100,Short,Low,15,Weekly,Online Learning,Declined
+S0753,13,Other,Visual,97,50,82,Long,High,6,Weekly,Tutoring,Improved
+S0754,12,Other,Auditory,86,86,82,Medium,High,9,Daily,Tutoring,Declined
+S0755,12,Female,Auditory,51,58,91,Short,Medium,13,Weekly,Peer Collaboration,Stable
+S0756,17,Male,Auditory,93,53,63,Long,Medium,7,Weekly,Online Learning,Stable
+S0757,13,Other,Kinesthetic,80,92,76,Medium,High,12,Rarely,Peer Collaboration,Declined
+S0758,13,Other,Auditory,80,60,84,Long,Low,12,Rarely,Tutoring,Declined
+S0759,17,Male,Kinesthetic,99,75,96,Medium,Medium,5,Daily,Tutoring,Stable
+S0760,10,Female,Auditory,83,84,75,Medium,Low,11,Daily,Online Learning,Stable
+S0761,12,Female,Kinesthetic,84,64,83,Short,Low,14,Daily,Peer Collaboration,Improved
+S0762,13,Other,Kinesthetic,96,90,97,Medium,Low,1,Weekly,Peer Collaboration,Declined
+S0763,15,Male,Reading/Writing,51,64,84,Long,High,13,Weekly,Online Learning,Improved
+S0764,16,Other,Kinesthetic,97,93,83,Short,High,6,Weekly,Peer Collaboration,Stable
+S0765,11,Female,Visual,73,61,70,Short,Low,15,Weekly,Online Learning,Declined
+S0766,11,Male,Auditory,80,89,60,Long,Medium,6,Weekly,Peer Collaboration,Declined
+S0767,14,Female,Reading/Writing,66,61,52,Short,High,5,Rarely,Peer Collaboration,Declined
+S0768,15,Female,Visual,75,69,50,Short,Medium,12,Weekly,Tutoring,Improved
+S0769,14,Female,Reading/Writing,67,60,55,Long,Medium,6,Rarely,Online Learning,Improved
+S0770,10,Male,Visual,56,66,89,Long,Medium,3,Rarely,Tutoring,Declined
+S0771,14,Female,Reading/Writing,50,55,64,Long,Medium,5,Weekly,Online Learning,Declined
+S0772,15,Other,Reading/Writing,84,79,50,Long,Low,5,Daily,Online Learning,Improved
+S0773,16,Female,Reading/Writing,73,96,56,Short,Medium,15,Rarely,Online Learning,Stable
+S0774,10,Female,Auditory,66,99,67,Long,Low,14,Weekly,Online Learning,Declined
+S0775,15,Other,Visual,50,64,66,Medium,Low,5,Daily,Peer Collaboration,Stable
+S0776,14,Other,Reading/Writing,86,74,75,Long,Medium,12,Rarely,Peer Collaboration,Stable
+S0777,15,Female,Auditory,97,50,81,Long,High,1,Weekly,Tutoring,Declined
+S0778,12,Other,Kinesthetic,84,97,87,Medium,Low,9,Daily,Online Learning,Stable
+S0779,17,Male,Kinesthetic,75,92,95,Long,Low,7,Daily,Tutoring,Stable
+S0780,10,Male,Kinesthetic,96,81,79,Medium,Low,11,Daily,Online Learning,Stable
+S0781,17,Other,Kinesthetic,83,53,84,Medium,Low,8,Weekly,Peer Collaboration,Stable
+S0782,11,Female,Kinesthetic,57,87,75,Medium,Low,10,Rarely,Online Learning,Declined
+S0783,15,Female,Auditory,87,71,87,Long,Low,5,Daily,Tutoring,Declined
+S0784,10,Female,Kinesthetic,94,58,64,Medium,Low,13,Rarely,Tutoring,Stable
+S0785,18,Other,Auditory,57,73,53,Medium,Low,7,Weekly,Online Learning,Stable
+S0786,16,Male,Visual,84,70,82,Long,Medium,9,Weekly,Online Learning,Stable
+S0787,15,Other,Reading/Writing,67,88,100,Long,Low,3,Weekly,Peer Collaboration,Improved
+S0788,13,Other,Auditory,84,84,96,Medium,Low,2,Daily,Peer Collaboration,Stable
+S0789,13,Other,Visual,72,93,89,Medium,Medium,9,Weekly,Tutoring,Improved
+S0790,17,Female,Reading/Writing,80,57,51,Long,High,8,Rarely,Online Learning,Declined
+S0791,10,Female,Kinesthetic,61,80,54,Medium,Medium,5,Daily,Tutoring,Declined
+S0792,17,Female,Auditory,63,50,65,Short,Low,7,Weekly,Online Learning,Stable
+S0793,13,Other,Reading/Writing,100,92,61,Medium,Medium,1,Weekly,Tutoring,Improved
+S0794,14,Other,Auditory,73,59,56,Medium,Medium,13,Rarely,Online Learning,Declined
+S0795,10,Male,Visual,92,65,83,Long,Low,13,Rarely,Peer Collaboration,Declined
+S0796,12,Female,Kinesthetic,53,51,81,Medium,Low,8,Daily,Tutoring,Improved
+S0797,11,Other,Auditory,91,51,69,Long,High,13,Rarely,Tutoring,Declined
+S0798,15,Female,Visual,91,90,54,Medium,High,3,Daily,Peer Collaboration,Stable
+S0799,11,Other,Auditory,61,72,65,Medium,Low,12,Weekly,Tutoring,Stable
+S0800,10,Male,Reading/Writing,90,85,76,Medium,Low,15,Rarely,Online Learning,Improved
+S0801,13,Other,Visual,53,65,57,Medium,Medium,3,Weekly,Tutoring,Stable
+S0802,17,Other,Reading/Writing,94,75,62,Short,Low,13,Weekly,Online Learning,Stable
+S0803,10,Male,Reading/Writing,83,100,82,Short,High,8,Daily,Peer Collaboration,Declined
+S0804,17,Other,Visual,94,83,93,Long,Low,3,Daily,Online Learning,Improved
+S0805,15,Female,Kinesthetic,71,81,61,Long,Low,2,Weekly,Peer Collaboration,Stable
+S0806,13,Other,Visual,91,92,82,Medium,Medium,12,Rarely,Online Learning,Improved
+S0807,10,Other,Reading/Writing,57,73,90,Medium,High,14,Weekly,Online Learning,Stable
+S0808,15,Male,Reading/Writing,82,67,92,Medium,Low,2,Weekly,Peer Collaboration,Declined
+S0809,12,Male,Reading/Writing,53,82,88,Medium,High,9,Rarely,Online Learning,Declined
+S0810,14,Male,Kinesthetic,67,68,79,Short,Low,10,Weekly,Peer Collaboration,Stable
+S0811,11,Other,Kinesthetic,72,74,69,Short,High,1,Weekly,Peer Collaboration,Improved
+S0812,15,Female,Auditory,61,93,64,Medium,Medium,3,Daily,Peer Collaboration,Improved
+S0813,16,Male,Kinesthetic,69,72,50,Long,High,4,Rarely,Online Learning,Improved
+S0814,10,Male,Auditory,64,89,94,Long,Medium,5,Daily,Online Learning,Stable
+S0815,13,Male,Visual,89,67,62,Medium,Low,10,Weekly,Tutoring,Improved
+S0816,15,Other,Visual,78,51,68,Long,Low,5,Weekly,Peer Collaboration,Improved
+S0817,10,Female,Reading/Writing,82,85,59,Long,Medium,4,Weekly,Online Learning,Stable
+S0818,12,Female,Kinesthetic,86,89,54,Medium,High,12,Daily,Peer Collaboration,Stable
+S0819,18,Male,Auditory,66,67,100,Long,High,13,Weekly,Tutoring,Stable
+S0820,10,Male,Reading/Writing,99,82,94,Long,High,3,Daily,Tutoring,Improved
+S0821,17,Female,Visual,88,54,69,Short,Medium,7,Daily,Peer Collaboration,Declined
+S0822,13,Female,Reading/Writing,88,56,86,Short,Medium,1,Rarely,Tutoring,Declined
+S0823,12,Other,Visual,52,87,54,Long,High,15,Weekly,Tutoring,Improved
+S0824,10,Female,Visual,58,55,98,Medium,High,4,Daily,Tutoring,Improved
+S0825,16,Other,Visual,79,57,99,Long,Low,2,Daily,Online Learning,Stable
+S0826,15,Female,Reading/Writing,98,94,52,Long,Medium,12,Daily,Peer Collaboration,Stable
+S0827,13,Male,Visual,80,56,60,Long,Low,6,Rarely,Tutoring,Stable
+S0828,15,Male,Visual,61,58,66,Medium,High,6,Weekly,Tutoring,Declined
+S0829,10,Other,Visual,57,81,95,Long,Medium,6,Daily,Peer Collaboration,Improved
+S0830,14,Female,Reading/Writing,100,73,71,Long,High,3,Daily,Online Learning,Stable
+S0831,17,Female,Reading/Writing,67,80,95,Short,Medium,7,Weekly,Online Learning,Improved
+S0832,10,Other,Kinesthetic,83,67,52,Short,High,4,Weekly,Online Learning,Declined
+S0833,15,Other,Reading/Writing,85,51,50,Medium,Low,10,Rarely,Tutoring,Improved
+S0834,14,Female,Visual,89,61,75,Short,Medium,2,Weekly,Tutoring,Stable
+S0835,16,Other,Visual,53,55,61,Long,Low,1,Daily,Tutoring,Improved
+S0836,13,Female,Kinesthetic,73,71,54,Short,Medium,7,Rarely,Online Learning,Improved
+S0837,11,Female,Visual,57,76,65,Medium,Medium,6,Rarely,Peer Collaboration,Declined
+S0838,16,Female,Reading/Writing,77,66,84,Medium,Medium,2,Rarely,Peer Collaboration,Declined
+S0839,12,Other,Kinesthetic,100,75,78,Long,High,12,Daily,Peer Collaboration,Improved
+S0840,10,Female,Kinesthetic,88,59,54,Long,Medium,11,Daily,Peer Collaboration,Improved
+S0841,11,Male,Reading/Writing,87,62,63,Medium,Medium,11,Daily,Online Learning,Stable
+S0842,15,Male,Visual,93,52,86,Short,Medium,3,Weekly,Peer Collaboration,Improved
+S0843,10,Female,Visual,60,50,62,Short,High,14,Daily,Peer Collaboration,Improved
+S0844,18,Other,Auditory,80,81,65,Medium,High,4,Weekly,Tutoring,Declined
+S0845,18,Female,Auditory,93,87,56,Long,Medium,14,Daily,Online Learning,Stable
+S0846,16,Male,Auditory,58,57,59,Long,Low,1,Weekly,Peer Collaboration,Declined
+S0847,17,Male,Reading/Writing,70,69,68,Short,High,3,Rarely,Peer Collaboration,Declined
+S0848,11,Other,Auditory,61,71,69,Medium,Medium,11,Weekly,Tutoring,Declined
+S0849,17,Female,Auditory,53,66,67,Short,Low,1,Weekly,Peer Collaboration,Improved
+S0850,16,Other,Reading/Writing,88,64,80,Medium,High,1,Weekly,Peer Collaboration,Stable
+S0851,17,Male,Auditory,78,97,92,Short,Low,10,Daily,Tutoring,Improved
+S0852,15,Other,Visual,50,65,76,Short,Medium,11,Rarely,Peer Collaboration,Improved
+S0853,14,Female,Reading/Writing,93,58,66,Short,High,15,Weekly,Online Learning,Declined
+S0854,13,Female,Kinesthetic,56,79,88,Long,High,4,Daily,Peer Collaboration,Stable
+S0855,18,Male,Reading/Writing,59,60,59,Long,Medium,13,Rarely,Tutoring,Declined
+S0856,11,Male,Reading/Writing,53,50,55,Medium,Medium,10,Daily,Tutoring,Improved
+S0857,18,Other,Kinesthetic,88,64,51,Medium,Medium,1,Rarely,Peer Collaboration,Improved
+S0858,11,Male,Kinesthetic,91,65,65,Short,Medium,3,Rarely,Online Learning,Improved
+S0859,14,Male,Auditory,58,68,77,Medium,Low,13,Rarely,Tutoring,Improved
+S0860,14,Female,Reading/Writing,73,87,60,Medium,High,13,Daily,Online Learning,Stable
+S0861,13,Female,Kinesthetic,93,80,94,Long,High,4,Daily,Peer Collaboration,Stable
+S0862,12,Female,Visual,88,73,92,Medium,High,13,Weekly,Online Learning,Improved
+S0863,12,Male,Reading/Writing,74,80,86,Long,High,6,Rarely,Online Learning,Declined
+S0864,15,Female,Auditory,81,64,69,Short,Low,8,Rarely,Tutoring,Improved
+S0865,16,Male,Kinesthetic,91,98,73,Medium,High,4,Daily,Peer Collaboration,Stable
+S0866,14,Female,Reading/Writing,87,87,70,Long,Medium,8,Daily,Tutoring,Declined
+S0867,18,Other,Reading/Writing,68,94,80,Long,High,14,Weekly,Peer Collaboration,Stable
+S0868,16,Male,Kinesthetic,97,62,95,Long,High,15,Daily,Online Learning,Declined
+S0869,17,Male,Visual,50,72,76,Long,Low,8,Daily,Online Learning,Declined
+S0870,17,Male,Auditory,66,69,65,Short,Low,8,Rarely,Peer Collaboration,Improved
+S0871,18,Female,Visual,93,89,79,Short,Low,9,Rarely,Online Learning,Declined
+S0872,15,Other,Reading/Writing,65,70,74,Long,High,3,Rarely,Tutoring,Stable
+S0873,11,Male,Auditory,77,87,55,Short,Low,5,Weekly,Online Learning,Stable
+S0874,18,Male,Kinesthetic,60,88,80,Long,Medium,2,Daily,Online Learning,Improved
+S0875,12,Female,Auditory,75,84,51,Medium,Medium,11,Rarely,Peer Collaboration,Improved
+S0876,18,Other,Visual,60,54,75,Medium,Medium,3,Daily,Tutoring,Stable
+S0877,18,Other,Kinesthetic,97,92,96,Medium,Medium,12,Weekly,Peer Collaboration,Stable
+S0878,18,Male,Kinesthetic,92,94,69,Short,Medium,11,Weekly,Tutoring,Improved
+S0879,18,Male,Visual,69,75,52,Long,Medium,10,Weekly,Tutoring,Declined
+S0880,14,Male,Reading/Writing,95,63,75,Short,High,4,Rarely,Online Learning,Improved
+S0881,10,Male,Kinesthetic,80,59,64,Short,Low,13,Weekly,Online Learning,Declined
+S0882,10,Female,Visual,74,99,71,Short,Low,1,Weekly,Peer Collaboration,Stable
+S0883,17,Male,Kinesthetic,77,97,59,Medium,Medium,3,Daily,Online Learning,Stable
+S0884,13,Other,Auditory,87,85,82,Short,High,4,Daily,Peer Collaboration,Declined
+S0885,18,Other,Reading/Writing,55,70,90,Medium,Low,9,Weekly,Online Learning,Declined
+S0886,10,Female,Visual,52,70,79,Medium,High,5,Daily,Online Learning,Improved
+S0887,16,Female,Auditory,86,73,90,Long,Medium,2,Weekly,Peer Collaboration,Improved
+S0888,15,Male,Visual,71,72,55,Short,Medium,8,Daily,Peer Collaboration,Declined
+S0889,14,Female,Kinesthetic,82,88,75,Short,Medium,11,Daily,Online Learning,Declined
+S0890,12,Male,Kinesthetic,87,90,62,Short,Medium,5,Rarely,Tutoring,Declined
+S0891,16,Female,Auditory,91,63,87,Long,Low,12,Daily,Online Learning,Stable
+S0892,12,Other,Auditory,60,56,74,Short,High,6,Weekly,Online Learning,Improved
+S0893,15,Female,Kinesthetic,70,55,100,Medium,High,11,Daily,Tutoring,Improved
+S0894,16,Female,Kinesthetic,59,59,72,Medium,Medium,3,Daily,Tutoring,Stable
+S0895,18,Male,Reading/Writing,67,94,70,Medium,High,1,Rarely,Online Learning,Improved
+S0896,17,Female,Kinesthetic,77,57,72,Long,Medium,14,Rarely,Peer Collaboration,Stable
+S0897,15,Female,Reading/Writing,66,98,62,Short,Low,12,Rarely,Online Learning,Declined
+S0898,17,Other,Visual,87,56,52,Long,Medium,8,Daily,Peer Collaboration,Improved
+S0899,17,Male,Kinesthetic,80,64,86,Medium,High,7,Rarely,Tutoring,Declined
+S0900,15,Male,Reading/Writing,95,53,53,Medium,High,14,Weekly,Peer Collaboration,Declined
+S0901,15,Female,Auditory,67,73,71,Medium,Low,15,Rarely,Online Learning,Declined
+S0902,15,Male,Visual,87,81,86,Long,High,14,Weekly,Online Learning,Stable
+S0903,11,Female,Visual,88,74,69,Short,High,8,Weekly,Online Learning,Declined
+S0904,14,Other,Auditory,57,96,73,Medium,Medium,14,Rarely,Peer Collaboration,Declined
+S0905,18,Male,Reading/Writing,57,59,96,Short,Low,2,Daily,Tutoring,Stable
+S0906,11,Other,Kinesthetic,73,95,76,Medium,Medium,11,Weekly,Tutoring,Improved
+S0907,17,Other,Visual,92,87,94,Medium,High,6,Weekly,Online Learning,Declined
+S0908,13,Other,Kinesthetic,93,53,81,Short,Low,5,Daily,Tutoring,Declined
+S0909,12,Male,Visual,97,97,56,Medium,Low,13,Daily,Tutoring,Improved
+S0910,16,Other,Visual,83,74,60,Medium,Medium,9,Daily,Online Learning,Declined
+S0911,17,Female,Reading/Writing,65,79,77,Medium,Low,12,Daily,Online Learning,Stable
+S0912,11,Female,Kinesthetic,95,93,53,Long,High,1,Rarely,Online Learning,Stable
+S0913,11,Male,Visual,75,50,69,Medium,Medium,7,Weekly,Online Learning,Improved
+S0914,10,Other,Reading/Writing,71,75,55,Medium,Low,8,Daily,Peer Collaboration,Improved
+S0915,13,Other,Auditory,93,65,93,Short,High,5,Rarely,Online Learning,Declined
+S0916,17,Other,Auditory,66,94,95,Medium,High,10,Daily,Online Learning,Declined
+S0917,16,Other,Kinesthetic,74,50,52,Medium,Low,5,Weekly,Peer Collaboration,Declined
+S0918,10,Female,Reading/Writing,94,58,83,Short,High,12,Rarely,Online Learning,Improved
+S0919,13,Female,Kinesthetic,81,94,99,Long,Medium,5,Rarely,Online Learning,Declined
+S0920,17,Female,Auditory,56,55,85,Long,Low,1,Weekly,Online Learning,Stable
+S0921,16,Other,Auditory,92,90,97,Medium,Low,12,Weekly,Tutoring,Stable
+S0922,13,Male,Visual,98,51,52,Long,Medium,13,Rarely,Tutoring,Improved
+S0923,16,Other,Auditory,83,52,85,Medium,High,5,Weekly,Online Learning,Improved
+S0924,16,Female,Visual,83,93,72,Medium,Low,10,Rarely,Online Learning,Stable
+S0925,12,Other,Reading/Writing,75,82,53,Long,High,7,Rarely,Tutoring,Stable
+S0926,14,Male,Visual,66,78,68,Short,Low,5,Rarely,Peer Collaboration,Stable
+S0927,13,Female,Reading/Writing,53,80,69,Long,Medium,7,Weekly,Online Learning,Stable
+S0928,18,Female,Kinesthetic,67,69,78,Long,High,11,Daily,Peer Collaboration,Declined
+S0929,15,Male,Reading/Writing,79,79,78,Long,Medium,3,Weekly,Tutoring,Declined
+S0930,18,Other,Visual,98,65,84,Medium,High,7,Daily,Online Learning,Improved
+S0931,15,Female,Kinesthetic,99,64,55,Long,Low,10,Rarely,Peer Collaboration,Stable
+S0932,16,Male,Auditory,96,97,85,Long,Medium,4,Rarely,Tutoring,Stable
+S0933,17,Other,Auditory,87,93,61,Long,Medium,8,Daily,Online Learning,Stable
+S0934,11,Other,Kinesthetic,56,94,77,Medium,High,11,Weekly,Online Learning,Stable
+S0935,16,Other,Reading/Writing,80,81,89,Short,Low,11,Weekly,Peer Collaboration,Stable
+S0936,11,Female,Visual,58,91,62,Medium,Medium,13,Weekly,Online Learning,Stable
+S0937,18,Other,Auditory,69,81,72,Long,High,2,Weekly,Online Learning,Stable
+S0938,13,Other,Reading/Writing,69,78,85,Medium,Low,13,Daily,Peer Collaboration,Declined
+S0939,13,Male,Kinesthetic,83,71,58,Medium,High,12,Rarely,Online Learning,Improved
+S0940,11,Other,Kinesthetic,72,87,52,Medium,High,14,Daily,Tutoring,Stable
+S0941,12,Male,Auditory,64,91,77,Medium,Low,7,Daily,Tutoring,Improved
+S0942,16,Female,Auditory,52,51,94,Medium,Low,11,Daily,Online Learning,Declined
+S0943,14,Other,Reading/Writing,76,69,58,Short,Low,8,Weekly,Peer Collaboration,Improved
+S0944,11,Male,Auditory,96,79,83,Medium,Low,5,Weekly,Tutoring,Declined
+S0945,18,Other,Reading/Writing,59,53,54,Short,High,7,Weekly,Tutoring,Declined
+S0946,12,Female,Kinesthetic,93,70,67,Medium,Medium,12,Weekly,Peer Collaboration,Stable
+S0947,13,Female,Kinesthetic,90,91,69,Medium,High,15,Weekly,Tutoring,Stable
+S0948,13,Other,Auditory,72,82,85,Short,High,15,Weekly,Tutoring,Declined
+S0949,11,Other,Kinesthetic,75,55,62,Medium,Low,2,Rarely,Online Learning,Declined
+S0950,16,Male,Auditory,91,79,93,Long,High,11,Weekly,Tutoring,Improved
+S0951,11,Male,Reading/Writing,63,54,81,Short,Low,9,Daily,Peer Collaboration,Improved
+S0952,10,Other,Reading/Writing,59,68,50,Long,High,13,Daily,Online Learning,Stable
+S0953,14,Female,Visual,78,81,77,Short,Medium,8,Rarely,Online Learning,Stable
+S0954,11,Other,Kinesthetic,92,66,87,Short,High,6,Daily,Online Learning,Declined
+S0955,17,Male,Kinesthetic,90,60,58,Short,Medium,11,Weekly,Tutoring,Declined
+S0956,12,Male,Kinesthetic,87,99,53,Short,Low,1,Weekly,Online Learning,Declined
+S0957,12,Female,Kinesthetic,61,86,100,Medium,Low,4,Weekly,Peer Collaboration,Declined
+S0958,11,Female,Reading/Writing,56,98,58,Short,High,9,Weekly,Peer Collaboration,Stable
+S0959,10,Other,Auditory,56,82,62,Medium,Low,11,Daily,Peer Collaboration,Declined
+S0960,17,Male,Reading/Writing,73,64,90,Medium,High,12,Rarely,Online Learning,Declined
+S0961,16,Female,Auditory,80,82,63,Medium,Medium,8,Daily,Tutoring,Declined
+S0962,15,Male,Visual,78,64,51,Medium,Medium,6,Rarely,Tutoring,Stable
+S0963,11,Male,Visual,88,73,93,Medium,Medium,8,Rarely,Peer Collaboration,Declined
+S0964,11,Female,Reading/Writing,53,64,79,Long,Medium,8,Daily,Peer Collaboration,Improved
+S0965,11,Other,Kinesthetic,52,73,83,Long,High,1,Weekly,Peer Collaboration,Stable
+S0966,18,Other,Reading/Writing,64,91,64,Short,Low,12,Weekly,Peer Collaboration,Declined
+S0967,17,Male,Kinesthetic,91,58,85,Short,Medium,12,Daily,Tutoring,Improved
+S0968,16,Male,Auditory,72,84,63,Medium,Medium,2,Rarely,Tutoring,Stable
+S0969,12,Female,Kinesthetic,71,76,77,Medium,High,9,Weekly,Peer Collaboration,Improved
+S0970,12,Other,Kinesthetic,52,88,96,Short,Medium,11,Daily,Peer Collaboration,Improved
+S0971,14,Male,Kinesthetic,80,87,58,Medium,Low,11,Rarely,Online Learning,Improved
+S0972,14,Other,Visual,96,85,88,Short,Medium,5,Rarely,Peer Collaboration,Improved
+S0973,13,Female,Visual,65,89,67,Medium,Low,7,Rarely,Peer Collaboration,Improved
+S0974,14,Other,Reading/Writing,76,68,80,Short,Low,5,Rarely,Tutoring,Declined
+S0975,13,Other,Visual,60,56,90,Long,Low,15,Rarely,Tutoring,Improved
+S0976,11,Female,Visual,63,70,71,Short,Medium,11,Daily,Tutoring,Declined
+S0977,14,Male,Auditory,97,63,71,Medium,Medium,13,Rarely,Peer Collaboration,Improved
+S0978,17,Female,Reading/Writing,65,51,57,Short,Low,8,Rarely,Online Learning,Improved
+S0979,13,Male,Kinesthetic,98,73,53,Medium,Low,11,Rarely,Tutoring,Improved
+S0980,10,Female,Reading/Writing,77,83,83,Long,Low,14,Daily,Peer Collaboration,Improved
+S0981,13,Female,Visual,50,91,66,Long,Low,5,Daily,Online Learning,Improved
+S0982,14,Male,Visual,65,72,61,Short,Low,10,Weekly,Tutoring,Improved
+S0983,15,Male,Visual,88,63,85,Medium,Medium,8,Daily,Online Learning,Stable
+S0984,10,Other,Kinesthetic,67,73,51,Long,High,9,Daily,Peer Collaboration,Improved
+S0985,15,Other,Kinesthetic,58,98,63,Short,Low,8,Rarely,Peer Collaboration,Stable
+S0986,18,Male,Kinesthetic,78,61,62,Medium,High,14,Daily,Tutoring,Improved
+S0987,17,Other,Auditory,76,87,94,Medium,Low,1,Daily,Tutoring,Improved
+S0988,10,Male,Visual,95,79,78,Short,High,9,Daily,Peer Collaboration,Improved
+S0989,14,Other,Visual,53,57,80,Medium,High,3,Daily,Tutoring,Stable
+S0990,17,Male,Auditory,54,71,61,Long,High,7,Weekly,Peer Collaboration,Stable
+S0991,16,Male,Auditory,91,76,93,Short,Low,8,Rarely,Peer Collaboration,Declined
+S0992,11,Other,Auditory,80,52,69,Short,Medium,6,Rarely,Online Learning,Declined
+S0993,12,Other,Auditory,99,89,64,Medium,Medium,14,Daily,Tutoring,Declined
+S0994,17,Other,Kinesthetic,63,93,51,Medium,Low,14,Daily,Online Learning,Declined
+S0995,12,Other,Auditory,75,60,56,Medium,High,8,Rarely,Peer Collaboration,Declined
+S0996,18,Male,Reading/Writing,86,71,66,Medium,Low,1,Rarely,Online Learning,Improved
+S0997,12,Other,Reading/Writing,51,89,97,Medium,High,15,Rarely,Tutoring,Declined
+S0998,18,Female,Reading/Writing,50,91,75,Medium,Medium,1,Daily,Peer Collaboration,Declined
+S0999,13,Male,Visual,61,88,94,Short,High,8,Rarely,Peer Collaboration,Improved
+S1000,17,Female,Kinesthetic,84,93,80,Medium,Low,6,Weekly,Online Learning,Stable
+S1001,12,Male,Auditory,92,71,76,Short,High,12,Rarely,Peer Collaboration,Improved
+S1002,12,Male,Auditory,72,79,100,Medium,High,4,Weekly,Tutoring,Improved
+S1003,17,Other,Auditory,66,96,53,Short,Low,7,Rarely,Peer Collaboration,Declined
+S1004,12,Female,Reading/Writing,70,68,62,Medium,Medium,6,Rarely,Tutoring,Declined
+S1005,16,Other,Kinesthetic,92,83,50,Long,Medium,4,Rarely,Peer Collaboration,Improved
+S1006,14,Female,Kinesthetic,64,50,63,Medium,Medium,6,Weekly,Tutoring,Declined
+S1007,13,Male,Kinesthetic,92,77,76,Long,High,7,Rarely,Tutoring,Stable
+S1008,17,Male,Visual,54,63,100,Short,High,14,Weekly,Online Learning,Declined
+S1009,17,Female,Reading/Writing,52,52,55,Short,High,3,Weekly,Peer Collaboration,Stable
+S1010,18,Male,Kinesthetic,87,81,83,Short,Medium,14,Weekly,Peer Collaboration,Improved
+S1011,14,Male,Visual,79,53,96,Medium,Medium,11,Daily,Peer Collaboration,Declined
+S1012,13,Female,Reading/Writing,51,63,93,Long,Medium,11,Daily,Online Learning,Stable
+S1013,12,Male,Reading/Writing,51,81,60,Medium,Medium,12,Daily,Peer Collaboration,Declined
+S1014,10,Female,Reading/Writing,74,74,84,Short,Medium,12,Daily,Tutoring,Stable
+S1015,15,Male,Auditory,91,71,95,Long,Medium,7,Daily,Online Learning,Improved
+S1016,15,Other,Kinesthetic,68,61,62,Medium,Medium,15,Daily,Online Learning,Stable
+S1017,15,Other,Visual,74,82,66,Short,Low,14,Rarely,Online Learning,Stable
+S1018,12,Other,Kinesthetic,68,92,68,Medium,High,9,Rarely,Peer Collaboration,Declined
+S1019,17,Male,Visual,91,86,55,Long,Medium,15,Daily,Tutoring,Improved
+S1020,17,Male,Kinesthetic,60,58,70,Short,Low,15,Rarely,Peer Collaboration,Declined
+S1021,11,Female,Visual,90,72,95,Long,Medium,1,Rarely,Tutoring,Improved
+S1022,18,Other,Visual,56,95,74,Medium,High,12,Daily,Tutoring,Stable
+S1023,14,Other,Visual,76,78,82,Medium,Low,8,Weekly,Online Learning,Improved
+S1024,12,Other,Auditory,95,53,54,Long,Low,10,Weekly,Tutoring,Declined
+S1025,14,Female,Reading/Writing,66,93,86,Short,Medium,2,Weekly,Tutoring,Improved
+S1026,13,Other,Reading/Writing,85,85,63,Medium,Medium,5,Daily,Online Learning,Stable
+S1027,11,Male,Kinesthetic,50,90,88,Short,Medium,9,Daily,Tutoring,Declined
+S1028,15,Other,Visual,58,88,59,Medium,Low,4,Daily,Tutoring,Declined
+S1029,13,Female,Visual,71,52,80,Short,Medium,15,Weekly,Tutoring,Declined
+S1030,15,Female,Reading/Writing,53,71,90,Short,High,13,Daily,Online Learning,Improved
+S1031,12,Other,Visual,94,81,53,Medium,High,4,Daily,Online Learning,Declined
+S1032,15,Other,Reading/Writing,52,91,56,Long,High,7,Daily,Peer Collaboration,Stable
+S1033,10,Male,Kinesthetic,65,93,56,Medium,High,11,Rarely,Peer Collaboration,Improved
+S1034,17,Male,Kinesthetic,100,98,84,Short,Medium,6,Weekly,Tutoring,Improved
+S1035,11,Male,Visual,68,77,87,Medium,Low,7,Weekly,Tutoring,Declined
+S1036,11,Female,Reading/Writing,92,70,60,Long,Medium,7,Rarely,Tutoring,Declined
+S1037,12,Female,Kinesthetic,72,63,90,Long,Low,11,Daily,Online Learning,Stable
+S1038,14,Other,Visual,74,65,55,Short,High,11,Daily,Online Learning,Stable
+S1039,14,Female,Reading/Writing,87,73,63,Short,Medium,4,Rarely,Online Learning,Stable
+S1040,16,Male,Reading/Writing,73,74,70,Long,High,11,Rarely,Online Learning,Stable
+S1041,17,Male,Kinesthetic,75,72,89,Short,Low,7,Weekly,Online Learning,Improved
+S1042,14,Other,Auditory,67,68,83,Short,High,14,Rarely,Peer Collaboration,Stable
+S1043,12,Male,Visual,82,93,72,Long,High,11,Weekly,Peer Collaboration,Stable
+S1044,16,Male,Visual,82,70,78,Medium,Medium,9,Daily,Peer Collaboration,Declined
+S1045,13,Female,Reading/Writing,78,50,60,Medium,Low,1,Daily,Tutoring,Stable
+S1046,17,Other,Reading/Writing,93,93,83,Long,Low,10,Weekly,Online Learning,Improved
+S1047,17,Male,Reading/Writing,77,76,98,Short,Low,6,Rarely,Online Learning,Improved
+S1048,18,Other,Kinesthetic,68,71,83,Long,Medium,5,Weekly,Online Learning,Declined
+S1049,13,Female,Auditory,79,75,66,Long,Medium,6,Rarely,Peer Collaboration,Improved
+S1050,14,Male,Reading/Writing,92,68,78,Medium,Medium,12,Rarely,Tutoring,Improved
+S1051,14,Male,Auditory,61,51,79,Long,Low,8,Rarely,Online Learning,Improved
+S1052,14,Other,Visual,95,59,95,Short,Low,1,Rarely,Online Learning,Declined
+S1053,11,Other,Kinesthetic,93,59,66,Long,Low,13,Weekly,Tutoring,Declined
+S1054,18,Other,Reading/Writing,50,66,59,Medium,Medium,14,Daily,Online Learning,Stable
+S1055,17,Male,Auditory,70,62,69,Short,Low,6,Weekly,Online Learning,Declined
+S1056,15,Female,Auditory,50,61,70,Long,High,2,Daily,Online Learning,Improved
+S1057,15,Female,Reading/Writing,78,66,70,Medium,Medium,10,Rarely,Online Learning,Stable
+S1058,12,Male,Auditory,87,54,57,Long,Low,1,Daily,Online Learning,Declined
+S1059,12,Other,Kinesthetic,76,82,65,Long,Low,8,Daily,Online Learning,Declined
+S1060,10,Female,Auditory,99,50,65,Short,Low,4,Weekly,Online Learning,Stable
+S1061,11,Male,Kinesthetic,64,98,97,Medium,High,3,Weekly,Tutoring,Improved
+S1062,18,Female,Reading/Writing,56,89,55,Medium,Medium,14,Weekly,Online Learning,Improved
+S1063,11,Male,Kinesthetic,75,98,53,Medium,High,1,Rarely,Peer Collaboration,Improved
+S1064,14,Other,Kinesthetic,91,54,54,Medium,High,9,Weekly,Peer Collaboration,Improved
+S1065,16,Male,Visual,68,57,87,Long,Medium,5,Rarely,Peer Collaboration,Improved
+S1066,13,Female,Reading/Writing,77,93,84,Medium,High,6,Weekly,Online Learning,Declined
+S1067,15,Male,Reading/Writing,59,53,93,Medium,Medium,4,Weekly,Online Learning,Improved
+S1068,11,Other,Auditory,71,82,74,Long,High,13,Daily,Peer Collaboration,Stable
+S1069,16,Other,Kinesthetic,100,68,69,Short,Medium,15,Weekly,Peer Collaboration,Stable
+S1070,12,Male,Kinesthetic,50,67,51,Short,Low,12,Rarely,Online Learning,Stable
+S1071,14,Male,Auditory,80,73,74,Long,High,14,Rarely,Peer Collaboration,Improved
+S1072,12,Female,Visual,73,56,90,Long,Medium,2,Weekly,Peer Collaboration,Declined
+S1073,13,Male,Reading/Writing,58,66,53,Short,Low,2,Weekly,Tutoring,Improved
+S1074,14,Other,Auditory,94,50,55,Medium,High,2,Rarely,Tutoring,Stable
+S1075,12,Male,Kinesthetic,95,80,77,Medium,Low,1,Rarely,Online Learning,Declined
+S1076,15,Other,Reading/Writing,82,71,58,Medium,Low,4,Rarely,Online Learning,Improved
+S1077,15,Other,Auditory,51,97,83,Medium,Low,14,Rarely,Online Learning,Improved
+S1078,18,Female,Auditory,65,75,67,Short,Medium,6,Daily,Tutoring,Stable
+S1079,11,Female,Visual,95,70,97,Medium,Low,6,Daily,Online Learning,Declined
+S1080,17,Other,Reading/Writing,82,55,73,Short,Low,10,Daily,Peer Collaboration,Declined
+S1081,11,Male,Visual,53,99,54,Long,Low,11,Rarely,Online Learning,Declined
+S1082,13,Other,Visual,57,64,66,Medium,Medium,8,Daily,Tutoring,Declined
+S1083,11,Female,Visual,52,65,84,Short,High,11,Rarely,Tutoring,Improved
+S1084,13,Female,Visual,93,96,94,Long,Medium,2,Daily,Peer Collaboration,Stable
+S1085,14,Female,Visual,70,90,72,Long,High,5,Daily,Online Learning,Improved
+S1086,16,Male,Reading/Writing,53,70,66,Short,High,14,Daily,Online Learning,Declined
+S1087,12,Other,Reading/Writing,72,77,88,Short,Low,7,Daily,Online Learning,Stable
+S1088,16,Male,Visual,56,86,64,Medium,High,1,Daily,Online Learning,Improved
+S1089,17,Male,Reading/Writing,86,60,78,Medium,High,7,Rarely,Online Learning,Declined
+S1090,14,Male,Auditory,73,94,52,Medium,High,3,Daily,Tutoring,Declined
+S1091,11,Female,Kinesthetic,98,98,66,Long,Low,6,Rarely,Tutoring,Improved
+S1092,14,Female,Reading/Writing,98,71,52,Long,Low,2,Weekly,Peer Collaboration,Declined
+S1093,11,Female,Visual,77,61,69,Long,Medium,15,Weekly,Online Learning,Stable
+S1094,12,Female,Kinesthetic,71,91,69,Long,Medium,15,Rarely,Online Learning,Stable
+S1095,14,Female,Kinesthetic,94,93,85,Short,Low,12,Rarely,Tutoring,Stable
+S1096,15,Male,Kinesthetic,56,87,85,Medium,Low,7,Daily,Tutoring,Improved
+S1097,18,Female,Kinesthetic,97,50,83,Medium,Medium,10,Rarely,Tutoring,Declined
+S1098,18,Other,Reading/Writing,80,83,50,Medium,High,15,Rarely,Tutoring,Improved
+S1099,17,Male,Reading/Writing,56,88,97,Short,Low,8,Rarely,Online Learning,Declined
+S1100,13,Female,Auditory,62,96,74,Medium,Low,3,Weekly,Online Learning,Stable
+S1101,14,Male,Kinesthetic,90,71,79,Long,Low,4,Daily,Peer Collaboration,Stable
+S1102,12,Other,Visual,61,54,79,Medium,High,2,Daily,Peer Collaboration,Stable
+S1103,13,Male,Visual,81,91,75,Short,Medium,7,Rarely,Tutoring,Improved
+S1104,18,Male,Kinesthetic,59,65,78,Long,Medium,10,Weekly,Online Learning,Declined
+S1105,16,Male,Reading/Writing,68,69,51,Short,Medium,1,Rarely,Peer Collaboration,Declined
+S1106,11,Female,Kinesthetic,93,90,75,Short,Medium,1,Daily,Online Learning,Improved
+S1107,12,Male,Visual,60,70,72,Long,High,15,Weekly,Tutoring,Declined
+S1108,18,Male,Reading/Writing,79,76,52,Long,Medium,15,Rarely,Tutoring,Declined
+S1109,15,Female,Visual,65,60,72,Medium,Low,15,Weekly,Tutoring,Stable
+S1110,18,Male,Reading/Writing,74,69,81,Short,Medium,15,Weekly,Tutoring,Declined
+S1111,10,Male,Auditory,90,89,84,Short,High,7,Daily,Tutoring,Declined
+S1112,12,Other,Auditory,94,82,94,Long,Low,4,Weekly,Online Learning,Improved
+S1113,14,Male,Kinesthetic,83,71,80,Long,High,12,Daily,Peer Collaboration,Improved
+S1114,14,Male,Kinesthetic,83,57,68,Short,High,2,Weekly,Peer Collaboration,Declined
+S1115,13,Other,Visual,97,76,66,Medium,Low,11,Rarely,Tutoring,Declined
+S1116,17,Male,Auditory,66,94,54,Short,High,10,Weekly,Online Learning,Declined
+S1117,14,Male,Kinesthetic,81,63,82,Short,High,8,Weekly,Tutoring,Declined
+S1118,13,Female,Auditory,53,71,100,Long,Low,5,Daily,Tutoring,Stable
+S1119,11,Other,Kinesthetic,86,85,85,Long,Low,12,Rarely,Peer Collaboration,Improved
+S1120,18,Male,Reading/Writing,99,84,54,Medium,Low,13,Daily,Tutoring,Declined
+S1121,12,Other,Visual,56,59,100,Long,High,7,Daily,Online Learning,Improved
+S1122,15,Female,Kinesthetic,70,66,61,Long,Medium,11,Rarely,Peer Collaboration,Stable
+S1123,16,Female,Reading/Writing,93,72,66,Long,Low,1,Rarely,Peer Collaboration,Improved
+S1124,14,Male,Reading/Writing,96,64,78,Long,Low,2,Weekly,Tutoring,Declined
+S1125,18,Female,Visual,93,65,71,Short,Medium,9,Weekly,Peer Collaboration,Improved
+S1126,16,Male,Visual,96,91,91,Short,Medium,13,Weekly,Peer Collaboration,Improved
+S1127,11,Female,Visual,54,58,81,Medium,Low,11,Weekly,Tutoring,Improved
+S1128,13,Female,Reading/Writing,84,70,87,Medium,Low,9,Weekly,Tutoring,Improved
+S1129,12,Female,Kinesthetic,91,77,82,Medium,High,7,Daily,Tutoring,Stable
+S1130,11,Male,Reading/Writing,64,86,92,Long,High,1,Weekly,Tutoring,Declined
+S1131,17,Female,Visual,64,67,99,Short,Medium,1,Weekly,Tutoring,Stable
+S1132,18,Other,Visual,67,77,92,Short,Medium,3,Daily,Tutoring,Improved
+S1133,15,Female,Auditory,58,94,94,Short,Medium,1,Weekly,Tutoring,Declined
+S1134,16,Female,Visual,57,92,63,Medium,Medium,11,Daily,Tutoring,Improved
+S1135,11,Female,Reading/Writing,50,95,86,Medium,Low,2,Rarely,Tutoring,Declined
+S1136,17,Other,Reading/Writing,59,95,66,Short,Low,5,Daily,Online Learning,Improved
+S1137,17,Male,Visual,66,61,85,Short,Low,7,Daily,Online Learning,Stable
+S1138,11,Female,Kinesthetic,81,95,60,Long,Low,10,Rarely,Peer Collaboration,Improved
+S1139,16,Male,Visual,96,92,77,Long,Low,14,Weekly,Tutoring,Declined
+S1140,10,Male,Auditory,89,67,94,Long,High,5,Daily,Peer Collaboration,Improved
+S1141,17,Male,Reading/Writing,90,91,62,Medium,Low,1,Rarely,Tutoring,Improved
+S1142,16,Other,Auditory,100,99,62,Short,Medium,3,Daily,Tutoring,Stable
+S1143,14,Female,Reading/Writing,69,79,70,Long,Medium,6,Weekly,Online Learning,Declined
+S1144,14,Male,Kinesthetic,84,73,94,Medium,Low,1,Weekly,Online Learning,Declined
+S1145,16,Female,Auditory,93,82,60,Medium,High,7,Rarely,Peer Collaboration,Improved
+S1146,11,Other,Kinesthetic,86,90,60,Medium,Medium,8,Daily,Tutoring,Improved
+S1147,15,Male,Visual,65,63,54,Medium,Low,4,Rarely,Online Learning,Improved
+S1148,14,Other,Visual,66,90,57,Long,Low,6,Rarely,Tutoring,Declined
+S1149,17,Male,Reading/Writing,88,88,56,Medium,High,5,Rarely,Peer Collaboration,Improved
+S1150,10,Male,Auditory,62,56,54,Long,Low,1,Rarely,Peer Collaboration,Declined
+S1151,11,Female,Kinesthetic,70,71,65,Short,Low,12,Weekly,Online Learning,Improved
+S1152,13,Male,Visual,50,90,63,Medium,Medium,4,Daily,Tutoring,Declined
+S1153,13,Female,Auditory,80,57,85,Short,Low,11,Weekly,Peer Collaboration,Stable
+S1154,18,Other,Auditory,55,93,52,Long,Low,3,Daily,Peer Collaboration,Declined
+S1155,10,Other,Reading/Writing,86,86,51,Medium,High,9,Weekly,Peer Collaboration,Stable
+S1156,11,Male,Auditory,72,65,80,Short,High,12,Daily,Peer Collaboration,Declined
+S1157,11,Other,Visual,83,51,77,Medium,Medium,15,Weekly,Online Learning,Declined
+S1158,16,Female,Kinesthetic,89,51,54,Long,Low,9,Daily,Peer Collaboration,Stable
+S1159,18,Female,Reading/Writing,52,90,72,Medium,Medium,4,Weekly,Tutoring,Declined
+S1160,18,Female,Auditory,92,81,77,Long,Low,7,Rarely,Tutoring,Declined
+S1161,18,Other,Visual,88,100,52,Short,Medium,5,Daily,Tutoring,Declined
+S1162,16,Male,Auditory,77,77,64,Long,Low,12,Weekly,Online Learning,Improved
+S1163,12,Male,Reading/Writing,79,76,94,Medium,Low,12,Weekly,Peer Collaboration,Improved
+S1164,16,Male,Visual,54,89,89,Short,Medium,5,Weekly,Tutoring,Improved
+S1165,17,Female,Reading/Writing,80,87,72,Medium,Medium,6,Rarely,Online Learning,Improved
+S1166,15,Other,Reading/Writing,67,81,99,Short,Low,7,Daily,Online Learning,Stable
+S1167,12,Other,Auditory,67,56,75,Long,High,14,Weekly,Peer Collaboration,Stable
+S1168,13,Other,Auditory,64,65,65,Long,Low,15,Daily,Online Learning,Stable
+S1169,16,Female,Reading/Writing,87,97,91,Short,High,11,Daily,Peer Collaboration,Stable
+S1170,18,Other,Kinesthetic,51,58,66,Medium,Medium,14,Daily,Tutoring,Declined
+S1171,15,Other,Visual,62,79,78,Medium,High,5,Weekly,Peer Collaboration,Improved
+S1172,12,Male,Visual,94,84,80,Medium,Medium,15,Rarely,Online Learning,Declined
+S1173,16,Other,Kinesthetic,80,78,65,Medium,Medium,10,Daily,Online Learning,Improved
+S1174,18,Other,Reading/Writing,87,70,100,Long,Medium,8,Rarely,Tutoring,Declined
+S1175,10,Other,Visual,57,68,63,Long,Low,2,Weekly,Peer Collaboration,Declined
+S1176,11,Other,Kinesthetic,79,58,85,Short,Medium,11,Weekly,Online Learning,Improved
+S1177,15,Male,Auditory,90,71,55,Short,Medium,7,Weekly,Peer Collaboration,Stable
+S1178,16,Other,Kinesthetic,69,85,94,Short,Medium,11,Daily,Online Learning,Declined
+S1179,15,Male,Visual,61,87,61,Short,Low,9,Rarely,Online Learning,Improved
+S1180,10,Male,Visual,68,90,60,Short,High,12,Daily,Tutoring,Declined
+S1181,10,Other,Auditory,66,98,71,Long,Medium,15,Rarely,Online Learning,Stable
+S1182,18,Male,Auditory,81,92,79,Long,High,13,Rarely,Peer Collaboration,Improved
+S1183,16,Female,Reading/Writing,72,55,73,Short,Medium,2,Rarely,Online Learning,Declined
+S1184,18,Female,Kinesthetic,62,69,62,Medium,Low,6,Daily,Online Learning,Stable
+S1185,17,Male,Visual,92,97,88,Short,Low,1,Rarely,Online Learning,Stable
+S1186,14,Male,Auditory,66,100,64,Short,High,9,Daily,Tutoring,Improved
+S1187,12,Male,Kinesthetic,96,67,71,Short,Low,10,Rarely,Tutoring,Stable
+S1188,14,Other,Auditory,70,86,58,Medium,Low,7,Weekly,Tutoring,Declined
+S1189,16,Other,Reading/Writing,72,70,81,Long,Medium,6,Weekly,Online Learning,Declined
+S1190,11,Male,Kinesthetic,71,67,88,Short,Medium,13,Daily,Tutoring,Improved
+S1191,11,Male,Kinesthetic,84,55,68,Medium,Low,12,Weekly,Online Learning,Improved
+S1192,17,Female,Visual,93,52,91,Medium,Medium,3,Daily,Peer Collaboration,Stable
+S1193,13,Male,Visual,96,91,62,Long,High,7,Daily,Online Learning,Improved
+S1194,13,Female,Reading/Writing,60,80,82,Long,Low,13,Daily,Peer Collaboration,Stable
+S1195,10,Male,Visual,73,79,52,Long,High,3,Rarely,Tutoring,Improved
+S1196,17,Male,Auditory,88,100,81,Long,Low,10,Weekly,Tutoring,Declined
+S1197,16,Other,Reading/Writing,90,67,52,Short,High,6,Daily,Online Learning,Stable
+S1198,18,Female,Visual,88,88,67,Short,High,12,Weekly,Peer Collaboration,Improved
+S1199,18,Other,Reading/Writing,69,63,65,Short,Medium,1,Rarely,Tutoring,Stable
+S1200,13,Male,Reading/Writing,64,57,100,Medium,Low,5,Weekly,Peer Collaboration,Stable
+S1201,10,Other,Kinesthetic,65,50,96,Medium,High,15,Weekly,Online Learning,Improved
+S1202,16,Male,Reading/Writing,79,64,70,Medium,Low,8,Weekly,Online Learning,Stable
+S1203,10,Other,Visual,69,68,56,Medium,Low,7,Weekly,Online Learning,Declined
+S1204,18,Male,Visual,57,62,61,Long,Medium,8,Daily,Peer Collaboration,Improved
+S1205,11,Female,Kinesthetic,87,90,81,Short,Low,3,Daily,Peer Collaboration,Stable
+S1206,12,Other,Visual,75,89,79,Medium,Medium,13,Rarely,Online Learning,Declined
+S1207,12,Other,Visual,98,56,60,Long,Medium,8,Daily,Peer Collaboration,Declined
+S1208,13,Male,Kinesthetic,59,86,59,Short,Low,8,Weekly,Tutoring,Improved
+S1209,12,Male,Reading/Writing,66,68,51,Short,Medium,2,Rarely,Online Learning,Stable
+S1210,11,Male,Visual,56,63,79,Short,Medium,13,Rarely,Tutoring,Improved
+S1211,17,Other,Auditory,71,58,85,Medium,High,3,Weekly,Peer Collaboration,Stable
+S1212,16,Other,Visual,78,72,95,Short,Medium,9,Rarely,Peer Collaboration,Declined
+S1213,13,Female,Kinesthetic,95,94,56,Short,Low,1,Rarely,Online Learning,Improved
+S1214,14,Female,Reading/Writing,77,51,56,Medium,Low,9,Rarely,Peer Collaboration,Declined
+S1215,18,Female,Kinesthetic,69,57,52,Long,Medium,14,Weekly,Online Learning,Improved
+S1216,17,Female,Auditory,72,83,83,Long,High,9,Daily,Online Learning,Improved
+S1217,13,Other,Visual,91,74,66,Medium,High,8,Rarely,Peer Collaboration,Declined
+S1218,13,Other,Kinesthetic,56,79,55,Short,Medium,11,Weekly,Peer Collaboration,Stable
+S1219,11,Male,Visual,57,95,98,Long,Medium,2,Weekly,Peer Collaboration,Declined
+S1220,13,Other,Kinesthetic,80,66,64,Medium,Low,1,Rarely,Peer Collaboration,Improved
+S1221,17,Male,Kinesthetic,62,79,100,Long,Medium,5,Weekly,Online Learning,Stable
+S1222,14,Male,Visual,80,95,89,Long,Medium,3,Rarely,Tutoring,Declined
+S1223,14,Other,Visual,94,98,96,Long,Low,12,Daily,Tutoring,Declined
+S1224,18,Male,Auditory,72,90,88,Long,Medium,5,Rarely,Peer Collaboration,Stable
+S1225,15,Other,Visual,54,64,68,Short,Low,3,Weekly,Online Learning,Stable
+S1226,13,Male,Kinesthetic,66,68,73,Medium,Low,1,Rarely,Tutoring,Declined
+S1227,14,Female,Kinesthetic,71,60,54,Short,Low,6,Daily,Peer Collaboration,Stable
+S1228,16,Female,Kinesthetic,56,57,68,Long,Low,4,Rarely,Online Learning,Stable
+S1229,17,Male,Visual,54,99,66,Short,High,10,Weekly,Online Learning,Declined
+S1230,14,Male,Kinesthetic,94,91,65,Medium,High,14,Daily,Peer Collaboration,Declined
+S1231,12,Other,Auditory,96,67,56,Medium,Low,11,Weekly,Tutoring,Declined
+S1232,17,Other,Auditory,77,64,73,Long,High,4,Rarely,Online Learning,Improved
+S1233,14,Male,Visual,94,100,95,Medium,High,3,Daily,Tutoring,Stable
+S1234,17,Other,Visual,84,50,98,Short,High,4,Daily,Tutoring,Stable
+S1235,14,Other,Reading/Writing,77,69,81,Medium,Medium,13,Weekly,Tutoring,Stable
+S1236,18,Male,Auditory,84,85,63,Long,Low,2,Rarely,Peer Collaboration,Improved
+S1237,16,Male,Visual,98,52,80,Long,Low,2,Daily,Peer Collaboration,Stable
+S1238,18,Other,Visual,95,99,66,Long,Low,4,Rarely,Online Learning,Stable
+S1239,13,Male,Visual,85,86,80,Short,Medium,3,Weekly,Online Learning,Declined
+S1240,15,Female,Auditory,66,60,79,Short,Low,7,Daily,Online Learning,Improved
+S1241,10,Female,Reading/Writing,64,63,67,Medium,Low,4,Daily,Tutoring,Improved
+S1242,12,Other,Kinesthetic,89,94,74,Long,Low,15,Daily,Online Learning,Improved
+S1243,10,Female,Kinesthetic,50,97,60,Short,Medium,9,Rarely,Online Learning,Stable
+S1244,17,Male,Auditory,79,71,50,Medium,High,10,Rarely,Online Learning,Declined
+S1245,17,Male,Visual,70,53,56,Medium,High,6,Weekly,Peer Collaboration,Improved
+S1246,11,Female,Visual,83,57,86,Short,Medium,1,Daily,Tutoring,Declined
+S1247,16,Male,Reading/Writing,74,62,69,Short,Medium,13,Daily,Tutoring,Improved
+S1248,11,Other,Reading/Writing,82,84,70,Long,Low,2,Rarely,Tutoring,Improved
+S1249,12,Other,Kinesthetic,93,69,57,Medium,Medium,1,Daily,Online Learning,Stable
+S1250,16,Other,Kinesthetic,52,51,73,Medium,Low,10,Rarely,Tutoring,Improved
+S1251,14,Female,Kinesthetic,78,96,79,Long,Low,1,Daily,Peer Collaboration,Declined
+S1252,10,Male,Reading/Writing,88,60,94,Long,Low,3,Weekly,Online Learning,Improved
+S1253,13,Male,Auditory,66,82,96,Short,Medium,1,Rarely,Tutoring,Stable
+S1254,13,Other,Reading/Writing,73,93,97,Medium,High,5,Rarely,Online Learning,Improved
+S1255,18,Other,Visual,85,66,72,Long,High,2,Daily,Online Learning,Improved
+S1256,11,Other,Visual,57,95,53,Short,High,7,Weekly,Peer Collaboration,Stable
+S1257,15,Male,Auditory,100,92,51,Medium,Low,11,Rarely,Peer Collaboration,Stable
+S1258,17,Female,Auditory,86,81,53,Short,Low,12,Daily,Tutoring,Declined
+S1259,10,Female,Auditory,88,62,81,Long,High,4,Rarely,Peer Collaboration,Stable
+S1260,16,Other,Reading/Writing,93,100,63,Long,High,13,Daily,Tutoring,Improved
+S1261,18,Female,Reading/Writing,92,95,71,Medium,Low,13,Weekly,Online Learning,Declined
+S1262,16,Female,Kinesthetic,52,50,73,Short,Low,1,Rarely,Online Learning,Improved
+S1263,13,Male,Auditory,95,83,54,Long,Medium,5,Daily,Online Learning,Declined
+S1264,12,Female,Auditory,90,99,68,Long,Low,4,Daily,Peer Collaboration,Improved
+S1265,16,Other,Auditory,91,91,72,Short,Low,13,Rarely,Tutoring,Improved
+S1266,17,Other,Reading/Writing,69,81,55,Short,Low,15,Daily,Online Learning,Stable
+S1267,17,Female,Kinesthetic,100,66,61,Long,Low,9,Daily,Tutoring,Declined
+S1268,10,Male,Kinesthetic,71,88,86,Short,Low,7,Daily,Peer Collaboration,Stable
+S1269,10,Male,Kinesthetic,99,68,54,Medium,Medium,3,Daily,Peer Collaboration,Stable
+S1270,15,Male,Reading/Writing,73,52,86,Long,High,9,Daily,Peer Collaboration,Declined
+S1271,17,Female,Reading/Writing,84,69,84,Long,High,3,Weekly,Tutoring,Declined
+S1272,14,Other,Visual,76,61,50,Long,Medium,10,Daily,Peer Collaboration,Declined
+S1273,10,Male,Kinesthetic,65,73,90,Medium,Low,3,Weekly,Online Learning,Stable
+S1274,10,Male,Auditory,97,55,85,Short,High,2,Rarely,Peer Collaboration,Stable
+S1275,13,Female,Visual,96,56,61,Medium,High,13,Rarely,Online Learning,Improved
+S1276,16,Male,Reading/Writing,73,91,79,Short,Medium,4,Daily,Tutoring,Stable
+S1277,14,Male,Visual,86,80,99,Long,Low,10,Rarely,Peer Collaboration,Declined
+S1278,17,Other,Reading/Writing,80,85,54,Medium,Medium,2,Daily,Tutoring,Declined
+S1279,17,Male,Auditory,53,58,63,Medium,High,5,Rarely,Peer Collaboration,Improved
+S1280,11,Female,Kinesthetic,88,65,77,Long,Low,14,Rarely,Online Learning,Stable
+S1281,18,Other,Auditory,62,73,60,Short,Low,13,Weekly,Peer Collaboration,Declined
+S1282,10,Female,Kinesthetic,69,53,96,Long,Low,1,Weekly,Peer Collaboration,Stable
+S1283,16,Other,Auditory,89,79,53,Long,High,2,Daily,Tutoring,Improved
+S1284,18,Male,Kinesthetic,60,73,57,Medium,High,7,Rarely,Tutoring,Stable
+S1285,17,Male,Kinesthetic,78,91,63,Short,High,8,Daily,Peer Collaboration,Stable
+S1286,11,Other,Kinesthetic,66,78,86,Long,High,7,Daily,Online Learning,Improved
+S1287,18,Other,Visual,86,53,68,Medium,Medium,15,Weekly,Online Learning,Improved
+S1288,16,Other,Kinesthetic,90,83,87,Short,Medium,1,Rarely,Tutoring,Declined
+S1289,13,Female,Kinesthetic,68,50,85,Long,Medium,3,Weekly,Tutoring,Stable
+S1290,16,Female,Visual,50,83,82,Short,Medium,1,Daily,Online Learning,Stable
+S1291,13,Male,Kinesthetic,83,65,90,Long,High,3,Daily,Tutoring,Stable
+S1292,18,Male,Kinesthetic,69,54,74,Short,Low,5,Rarely,Tutoring,Improved
+S1293,15,Other,Reading/Writing,83,61,88,Long,Low,15,Daily,Peer Collaboration,Declined
+S1294,15,Other,Auditory,74,54,64,Long,Low,2,Weekly,Peer Collaboration,Stable
+S1295,13,Other,Auditory,99,58,99,Short,High,2,Rarely,Online Learning,Improved
+S1296,12,Male,Visual,50,78,57,Medium,High,15,Weekly,Peer Collaboration,Improved
+S1297,13,Female,Visual,53,58,61,Long,Medium,4,Daily,Online Learning,Improved
+S1298,12,Male,Auditory,86,72,62,Long,Low,10,Weekly,Peer Collaboration,Declined
+S1299,16,Other,Visual,89,98,52,Medium,Low,12,Daily,Online Learning,Improved
+S1300,14,Other,Auditory,89,61,87,Medium,Medium,3,Weekly,Online Learning,Improved
+S1301,16,Female,Kinesthetic,86,62,93,Short,Medium,14,Weekly,Tutoring,Improved
+S1302,16,Male,Kinesthetic,79,73,92,Long,High,13,Rarely,Online Learning,Stable
+S1303,17,Other,Reading/Writing,94,63,95,Long,Low,9,Daily,Online Learning,Declined
+S1304,14,Other,Auditory,59,96,69,Medium,Low,3,Daily,Online Learning,Stable
+S1305,16,Other,Auditory,88,53,89,Short,Medium,13,Rarely,Tutoring,Stable
+S1306,11,Male,Visual,57,70,73,Medium,High,15,Daily,Online Learning,Improved
+S1307,13,Male,Auditory,70,50,96,Medium,High,6,Weekly,Tutoring,Improved
+S1308,18,Other,Visual,87,92,78,Medium,High,11,Daily,Tutoring,Declined
+S1309,15,Other,Kinesthetic,81,98,59,Long,Low,14,Weekly,Peer Collaboration,Stable
+S1310,18,Male,Visual,61,59,63,Medium,Low,3,Rarely,Online Learning,Declined
+S1311,13,Female,Reading/Writing,63,75,80,Medium,Medium,11,Daily,Peer Collaboration,Declined
+S1312,16,Male,Auditory,62,79,98,Long,Medium,15,Daily,Online Learning,Declined
+S1313,13,Other,Reading/Writing,68,85,98,Long,High,3,Daily,Peer Collaboration,Declined
+S1314,14,Female,Visual,61,79,65,Medium,Medium,6,Daily,Peer Collaboration,Declined
+S1315,11,Female,Visual,83,68,55,Medium,Low,11,Rarely,Tutoring,Stable
+S1316,16,Other,Visual,71,80,71,Medium,Medium,8,Daily,Tutoring,Improved
+S1317,16,Other,Visual,70,82,95,Long,Medium,9,Daily,Online Learning,Improved
+S1318,11,Male,Kinesthetic,77,86,53,Medium,Medium,10,Daily,Tutoring,Stable
+S1319,10,Male,Auditory,66,59,94,Medium,High,15,Rarely,Online Learning,Declined
+S1320,10,Other,Auditory,98,70,70,Medium,Low,13,Weekly,Tutoring,Stable
+S1321,18,Female,Kinesthetic,87,64,74,Medium,High,4,Weekly,Online Learning,Improved
+S1322,15,Other,Reading/Writing,72,67,54,Long,Medium,14,Weekly,Online Learning,Declined
+S1323,12,Other,Kinesthetic,59,85,60,Long,Medium,2,Weekly,Tutoring,Stable
+S1324,18,Other,Reading/Writing,91,87,98,Short,Medium,6,Weekly,Tutoring,Stable
+S1325,12,Female,Kinesthetic,51,86,99,Medium,High,13,Rarely,Online Learning,Improved
+S1326,18,Female,Visual,60,50,51,Short,Low,14,Daily,Tutoring,Declined
+S1327,16,Female,Auditory,91,79,63,Short,Medium,10,Weekly,Peer Collaboration,Stable
+S1328,17,Male,Kinesthetic,68,94,63,Short,High,3,Daily,Peer Collaboration,Improved
+S1329,17,Male,Kinesthetic,57,90,60,Medium,High,10,Rarely,Online Learning,Declined
+S1330,11,Female,Visual,76,58,81,Long,Medium,6,Weekly,Peer Collaboration,Improved
+S1331,14,Female,Visual,100,69,67,Short,Low,14,Daily,Online Learning,Declined
+S1332,16,Female,Reading/Writing,83,72,61,Medium,Low,13,Daily,Online Learning,Declined
+S1333,17,Female,Kinesthetic,55,54,56,Long,Low,9,Rarely,Online Learning,Declined
+S1334,13,Other,Reading/Writing,91,76,89,Long,High,10,Rarely,Peer Collaboration,Improved
+S1335,16,Male,Reading/Writing,61,93,85,Medium,Low,1,Weekly,Peer Collaboration,Declined
+S1336,10,Female,Auditory,95,82,66,Short,High,3,Daily,Tutoring,Stable
+S1337,16,Other,Auditory,91,80,52,Short,Low,1,Rarely,Tutoring,Declined
+S1338,16,Female,Auditory,68,62,59,Medium,Low,8,Weekly,Peer Collaboration,Stable
+S1339,14,Male,Reading/Writing,100,90,79,Long,Medium,9,Daily,Online Learning,Improved
+S1340,13,Female,Kinesthetic,99,64,87,Short,High,13,Weekly,Peer Collaboration,Improved
+S1341,10,Male,Auditory,57,65,89,Long,High,14,Weekly,Online Learning,Improved
+S1342,10,Male,Reading/Writing,68,99,74,Long,Medium,4,Daily,Peer Collaboration,Stable
+S1343,10,Male,Visual,54,79,79,Long,Medium,11,Rarely,Tutoring,Stable
+S1344,17,Female,Kinesthetic,54,76,83,Medium,Medium,14,Weekly,Peer Collaboration,Stable
+S1345,17,Male,Kinesthetic,58,92,68,Medium,High,5,Daily,Peer Collaboration,Improved
+S1346,11,Other,Kinesthetic,90,89,98,Short,Medium,4,Rarely,Peer Collaboration,Stable
+S1347,16,Male,Auditory,71,97,74,Medium,Low,13,Rarely,Peer Collaboration,Declined
+S1348,12,Other,Visual,64,51,54,Short,High,6,Weekly,Tutoring,Stable
+S1349,16,Other,Kinesthetic,83,64,74,Medium,Medium,13,Weekly,Tutoring,Improved
+S1350,14,Male,Visual,95,90,96,Long,Low,14,Weekly,Online Learning,Declined
+S1351,10,Other,Reading/Writing,62,84,51,Long,High,3,Daily,Peer Collaboration,Stable
+S1352,15,Male,Auditory,92,83,54,Long,High,7,Weekly,Peer Collaboration,Stable
+S1353,18,Female,Reading/Writing,72,71,89,Medium,Low,11,Rarely,Peer Collaboration,Improved
+S1354,13,Female,Visual,61,66,71,Medium,High,12,Daily,Tutoring,Stable
+S1355,18,Male,Kinesthetic,77,86,70,Long,Medium,4,Daily,Peer Collaboration,Improved
+S1356,16,Female,Auditory,52,72,84,Medium,Medium,8,Weekly,Peer Collaboration,Declined
+S1357,12,Female,Visual,97,62,52,Medium,High,8,Daily,Tutoring,Stable
+S1358,12,Other,Kinesthetic,57,98,67,Short,Low,7,Daily,Tutoring,Stable
+S1359,13,Other,Reading/Writing,66,84,50,Medium,Low,11,Weekly,Tutoring,Improved
+S1360,16,Other,Reading/Writing,58,87,88,Medium,Low,13,Daily,Peer Collaboration,Improved
+S1361,17,Male,Reading/Writing,69,80,91,Long,Medium,3,Rarely,Peer Collaboration,Declined
+S1362,14,Male,Visual,67,71,52,Long,Low,13,Rarely,Online Learning,Improved
+S1363,12,Male,Visual,100,84,72,Medium,Low,6,Rarely,Online Learning,Declined
+S1364,11,Male,Auditory,93,67,86,Short,High,1,Weekly,Tutoring,Improved
+S1365,10,Other,Reading/Writing,82,79,88,Long,High,10,Weekly,Peer Collaboration,Declined
+S1366,18,Female,Kinesthetic,68,94,63,Long,High,8,Weekly,Tutoring,Stable
+S1367,14,Male,Auditory,67,91,68,Short,High,12,Weekly,Peer Collaboration,Improved
+S1368,18,Male,Reading/Writing,66,71,60,Medium,Low,14,Rarely,Online Learning,Declined
+S1369,15,Other,Reading/Writing,57,73,53,Medium,High,12,Daily,Peer Collaboration,Stable
+S1370,15,Other,Visual,68,77,75,Long,Low,10,Daily,Online Learning,Declined
+S1371,16,Female,Reading/Writing,56,82,69,Short,High,11,Daily,Tutoring,Declined
+S1372,10,Other,Visual,92,94,100,Short,High,2,Daily,Online Learning,Declined
+S1373,11,Male,Auditory,96,79,51,Short,Medium,12,Weekly,Peer Collaboration,Stable
+S1374,13,Male,Visual,75,84,81,Short,Medium,4,Weekly,Tutoring,Declined
+S1375,18,Female,Reading/Writing,74,78,94,Short,Medium,3,Weekly,Peer Collaboration,Improved
+S1376,14,Female,Auditory,75,60,60,Medium,Medium,4,Daily,Peer Collaboration,Declined
+S1377,11,Other,Visual,81,74,67,Long,High,5,Daily,Tutoring,Stable
+S1378,18,Female,Visual,61,81,67,Medium,Low,1,Daily,Online Learning,Declined
+S1379,16,Other,Kinesthetic,91,99,57,Long,High,13,Rarely,Tutoring,Declined
+S1380,10,Other,Reading/Writing,81,60,76,Long,High,9,Rarely,Tutoring,Stable
+S1381,12,Female,Visual,61,92,93,Long,High,2,Rarely,Tutoring,Improved
+S1382,14,Other,Auditory,84,83,87,Medium,Low,14,Daily,Tutoring,Improved
+S1383,10,Other,Auditory,80,62,76,Medium,Low,13,Weekly,Tutoring,Stable
+S1384,16,Other,Reading/Writing,78,93,69,Long,High,7,Rarely,Peer Collaboration,Stable
+S1385,15,Female,Reading/Writing,50,88,83,Short,Medium,3,Daily,Peer Collaboration,Improved
+S1386,13,Male,Auditory,84,74,60,Long,High,10,Weekly,Peer Collaboration,Declined
+S1387,11,Female,Kinesthetic,54,67,75,Short,High,14,Weekly,Online Learning,Declined
+S1388,18,Female,Visual,60,89,52,Long,High,1,Weekly,Tutoring,Declined
+S1389,12,Male,Reading/Writing,67,78,63,Short,Low,9,Rarely,Peer Collaboration,Improved
+S1390,17,Male,Auditory,67,53,58,Short,Medium,11,Weekly,Tutoring,Declined
+S1391,16,Male,Reading/Writing,92,84,67,Short,High,5,Daily,Peer Collaboration,Improved
+S1392,10,Other,Auditory,86,66,94,Long,Low,10,Rarely,Peer Collaboration,Improved
+S1393,13,Female,Visual,58,99,59,Short,Medium,1,Rarely,Peer Collaboration,Improved
+S1394,13,Male,Auditory,78,82,63,Medium,High,9,Weekly,Peer Collaboration,Improved
+S1395,17,Male,Auditory,90,99,61,Medium,Medium,3,Rarely,Peer Collaboration,Stable
+S1396,15,Other,Auditory,63,97,98,Short,Medium,15,Daily,Online Learning,Declined
+S1397,18,Other,Visual,54,91,66,Long,High,14,Rarely,Tutoring,Stable
+S1398,10,Female,Visual,59,94,58,Medium,Low,14,Daily,Tutoring,Improved
+S1399,10,Male,Reading/Writing,92,59,65,Medium,Low,8,Daily,Online Learning,Declined
+S1400,12,Other,Kinesthetic,69,67,83,Short,High,3,Weekly,Peer Collaboration,Improved
+S1401,14,Male,Auditory,92,68,78,Medium,Low,1,Rarely,Peer Collaboration,Improved
+S1402,15,Male,Auditory,81,73,80,Long,Medium,15,Daily,Tutoring,Stable
+S1403,14,Male,Reading/Writing,83,80,52,Medium,High,10,Daily,Tutoring,Improved
+S1404,11,Other,Visual,77,85,87,Short,Low,3,Weekly,Online Learning,Improved
+S1405,12,Female,Reading/Writing,86,73,60,Short,High,5,Rarely,Online Learning,Improved
+S1406,10,Male,Kinesthetic,77,70,96,Medium,High,14,Weekly,Tutoring,Improved
+S1407,14,Other,Auditory,66,93,95,Medium,High,12,Rarely,Peer Collaboration,Stable
+S1408,10,Female,Visual,55,88,86,Short,Low,12,Rarely,Online Learning,Declined
+S1409,18,Other,Auditory,71,68,89,Long,Medium,2,Daily,Tutoring,Improved
+S1410,10,Female,Reading/Writing,97,57,99,Short,Low,9,Rarely,Peer Collaboration,Stable
+S1411,12,Other,Reading/Writing,60,59,64,Medium,High,15,Weekly,Tutoring,Improved
+S1412,15,Male,Kinesthetic,58,86,90,Long,High,10,Daily,Online Learning,Declined
+S1413,15,Male,Reading/Writing,77,81,90,Medium,Medium,10,Weekly,Peer Collaboration,Declined
+S1414,14,Male,Auditory,97,82,54,Long,High,1,Rarely,Tutoring,Declined
+S1415,17,Female,Kinesthetic,77,100,58,Medium,Medium,1,Weekly,Tutoring,Stable
+S1416,16,Female,Kinesthetic,87,74,56,Medium,Low,1,Rarely,Online Learning,Stable
+S1417,10,Male,Kinesthetic,89,57,92,Short,High,6,Daily,Online Learning,Improved
+S1418,16,Male,Reading/Writing,90,90,50,Medium,High,14,Weekly,Online Learning,Improved
+S1419,11,Other,Kinesthetic,64,68,73,Medium,Medium,13,Weekly,Tutoring,Improved
+S1420,16,Male,Kinesthetic,86,81,70,Medium,Medium,7,Daily,Tutoring,Stable
+S1421,14,Female,Reading/Writing,100,80,74,Medium,Medium,1,Rarely,Online Learning,Declined
+S1422,14,Female,Visual,81,95,91,Short,High,10,Daily,Peer Collaboration,Improved
+S1423,11,Male,Auditory,99,80,98,Long,High,9,Daily,Online Learning,Stable
+S1424,16,Male,Reading/Writing,77,83,58,Medium,High,9,Weekly,Tutoring,Stable
+S1425,16,Male,Visual,86,58,53,Medium,High,6,Weekly,Online Learning,Stable
+S1426,12,Other,Auditory,82,80,75,Medium,High,1,Rarely,Tutoring,Improved
+S1427,10,Male,Kinesthetic,60,69,62,Medium,Medium,10,Weekly,Peer Collaboration,Stable
+S1428,15,Male,Visual,83,87,81,Long,Low,2,Daily,Online Learning,Stable
+S1429,14,Male,Visual,83,52,98,Short,Low,8,Rarely,Peer Collaboration,Declined
+S1430,15,Other,Kinesthetic,54,52,65,Short,Medium,8,Daily,Tutoring,Stable
+S1431,17,Male,Reading/Writing,54,59,83,Long,Medium,11,Rarely,Peer Collaboration,Stable
+S1432,18,Other,Auditory,61,88,70,Medium,Low,10,Rarely,Tutoring,Declined
+S1433,15,Female,Reading/Writing,82,55,60,Short,High,3,Weekly,Online Learning,Stable
+S1434,17,Other,Reading/Writing,74,57,77,Medium,High,10,Rarely,Tutoring,Declined
+S1435,13,Other,Reading/Writing,67,89,94,Medium,Low,6,Rarely,Online Learning,Stable
+S1436,15,Other,Auditory,91,55,74,Medium,Low,9,Weekly,Tutoring,Declined
+S1437,11,Female,Auditory,78,79,69,Short,Low,12,Daily,Online Learning,Improved
+S1438,18,Other,Auditory,52,87,66,Long,Medium,10,Daily,Tutoring,Stable
+S1439,17,Female,Auditory,56,83,80,Medium,Low,14,Weekly,Tutoring,Improved
+S1440,14,Male,Kinesthetic,53,72,87,Medium,Medium,2,Weekly,Tutoring,Improved
+S1441,10,Female,Reading/Writing,55,88,82,Long,Medium,14,Daily,Peer Collaboration,Declined
+S1442,10,Male,Visual,100,53,85,Long,Medium,10,Daily,Peer Collaboration,Declined
+S1443,18,Other,Reading/Writing,57,92,99,Short,Medium,12,Daily,Tutoring,Stable
+S1444,16,Female,Visual,79,66,52,Long,Medium,8,Daily,Tutoring,Declined
+S1445,13,Other,Reading/Writing,61,75,68,Short,Medium,15,Weekly,Online Learning,Improved
+S1446,12,Other,Kinesthetic,96,88,69,Medium,Low,3,Rarely,Online Learning,Stable
+S1447,11,Other,Auditory,88,64,83,Medium,High,4,Daily,Peer Collaboration,Stable
+S1448,12,Female,Auditory,63,87,91,Short,Medium,11,Rarely,Tutoring,Declined
+S1449,11,Female,Visual,88,50,80,Long,High,8,Rarely,Online Learning,Declined
+S1450,18,Female,Kinesthetic,59,74,82,Medium,Medium,2,Daily,Peer Collaboration,Stable
+S1451,16,Female,Auditory,63,98,83,Long,High,3,Daily,Tutoring,Declined
+S1452,18,Other,Visual,74,99,88,Medium,High,14,Weekly,Peer Collaboration,Improved
+S1453,11,Other,Reading/Writing,85,57,97,Long,Medium,2,Rarely,Online Learning,Declined
+S1454,18,Male,Kinesthetic,99,98,93,Short,Medium,14,Daily,Peer Collaboration,Stable
+S1455,15,Female,Kinesthetic,54,86,51,Short,Low,3,Rarely,Online Learning,Stable
+S1456,15,Male,Kinesthetic,61,70,80,Medium,High,14,Daily,Peer Collaboration,Improved
+S1457,14,Other,Reading/Writing,89,81,68,Long,Medium,3,Rarely,Tutoring,Declined
+S1458,16,Female,Kinesthetic,53,65,87,Short,Low,1,Daily,Peer Collaboration,Improved
+S1459,11,Female,Kinesthetic,91,95,59,Short,Medium,14,Daily,Tutoring,Improved
+S1460,17,Male,Visual,66,93,69,Medium,Medium,15,Weekly,Tutoring,Declined
+S1461,10,Other,Visual,83,88,60,Short,Medium,2,Rarely,Tutoring,Stable
+S1462,11,Other,Reading/Writing,84,50,59,Medium,Medium,9,Rarely,Peer Collaboration,Improved
+S1463,16,Female,Reading/Writing,96,81,74,Medium,Medium,3,Rarely,Online Learning,Stable
+S1464,15,Other,Kinesthetic,63,84,98,Short,Medium,14,Weekly,Online Learning,Improved
+S1465,13,Male,Auditory,82,96,83,Short,Low,10,Weekly,Online Learning,Improved
+S1466,18,Female,Reading/Writing,86,63,65,Short,Medium,5,Weekly,Tutoring,Improved
+S1467,10,Other,Visual,73,82,97,Short,Medium,6,Rarely,Peer Collaboration,Declined
+S1468,17,Other,Kinesthetic,90,87,83,Long,High,8,Daily,Tutoring,Declined
+S1469,18,Other,Visual,53,50,92,Medium,Medium,14,Weekly,Tutoring,Declined
+S1470,17,Female,Auditory,62,55,81,Short,Medium,5,Daily,Online Learning,Stable
+S1471,18,Other,Kinesthetic,67,59,68,Long,High,8,Rarely,Peer Collaboration,Improved
+S1472,13,Other,Kinesthetic,65,77,84,Long,Medium,11,Rarely,Tutoring,Stable
+S1473,11,Male,Visual,78,73,87,Long,Medium,12,Daily,Tutoring,Declined
+S1474,14,Other,Kinesthetic,74,97,76,Long,Low,1,Daily,Online Learning,Stable
+S1475,18,Male,Auditory,65,70,87,Short,Low,15,Daily,Online Learning,Declined
+S1476,18,Other,Kinesthetic,71,64,89,Medium,High,8,Weekly,Tutoring,Improved
+S1477,11,Other,Visual,100,73,86,Long,High,11,Weekly,Peer Collaboration,Improved
+S1478,17,Female,Auditory,50,80,73,Long,Medium,9,Daily,Tutoring,Improved
+S1479,13,Other,Auditory,79,86,66,Short,Low,5,Rarely,Tutoring,Stable
+S1480,15,Other,Visual,71,100,71,Long,High,2,Rarely,Tutoring,Declined
+S1481,15,Male,Auditory,97,77,65,Short,Low,9,Rarely,Online Learning,Improved
+S1482,15,Other,Reading/Writing,100,70,83,Long,Medium,3,Daily,Peer Collaboration,Improved
+S1483,10,Female,Kinesthetic,67,62,90,Short,High,1,Rarely,Online Learning,Declined
+S1484,17,Female,Reading/Writing,84,85,90,Medium,Low,5,Daily,Online Learning,Stable
+S1485,16,Female,Reading/Writing,71,84,94,Short,Medium,14,Rarely,Tutoring,Improved
+S1486,16,Male,Auditory,58,58,98,Short,Low,8,Rarely,Online Learning,Improved
+S1487,14,Male,Reading/Writing,92,93,97,Medium,Low,3,Daily,Tutoring,Stable
+S1488,16,Male,Visual,77,65,99,Long,Medium,6,Daily,Tutoring,Stable
+S1489,18,Female,Visual,79,53,91,Medium,Medium,13,Rarely,Peer Collaboration,Declined
+S1490,13,Other,Kinesthetic,86,84,99,Medium,Low,11,Rarely,Tutoring,Improved
+S1491,12,Female,Visual,64,72,90,Medium,Medium,13,Daily,Online Learning,Stable
+S1492,11,Male,Visual,56,71,79,Short,Low,9,Rarely,Peer Collaboration,Improved
+S1493,14,Male,Reading/Writing,56,79,86,Medium,Medium,12,Daily,Online Learning,Declined
+S1494,14,Female,Visual,52,100,67,Medium,Low,3,Rarely,Tutoring,Declined
+S1495,16,Male,Reading/Writing,52,61,100,Long,High,1,Rarely,Online Learning,Stable
+S1496,13,Other,Reading/Writing,79,60,98,Short,Low,15,Daily,Online Learning,Stable
+S1497,12,Female,Visual,51,55,81,Medium,Medium,1,Weekly,Peer Collaboration,Declined
+S1498,18,Female,Visual,83,96,94,Medium,Low,9,Rarely,Peer Collaboration,Improved
+S1499,14,Other,Kinesthetic,64,78,51,Short,Low,7,Daily,Peer Collaboration,Declined
+S1500,14,Male,Kinesthetic,60,77,99,Long,High,15,Daily,Peer Collaboration,Improved
